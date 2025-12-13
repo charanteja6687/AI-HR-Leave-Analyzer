@@ -4,4 +4,4 @@ pandas==2.1.3
 numpy==1.26.2
 joblib==1.3.2
 reportlab
-gunicorn
+gunicorn==21.2.0
