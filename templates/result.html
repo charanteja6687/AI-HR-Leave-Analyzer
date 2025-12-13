@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Leave Request Outcome</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+
+<div class="result-page-wrapper fade-in">
+
+    <!-- ================= HEADER ================= -->
+    <header class="top-header">
+        <div class="header-icon">🤖</div>
+        <h1 class="app-title">AI HR Leave Analyzer</h1>
+        <p class="app-subtitle">Automated Leave Request Evaluation</p>
+    </header>
+
+    <!-- ================= STATUS BANNER ================= -->
+    <div class="result-status 
+        {% if decision == 'Approved' %}approved
+        {% elif decision == 'Rejected' %}rejected
+        {% else %}error
+        {% endif %}">
+
+        <div class="status-badge">
+            <div class="badge-icon">
+                {% if decision == 'Approved' %}✓
+                {% elif decision == 'Rejected' %}✕
+                {% else %}⚠
+                {% endif %}
+            </div>
+
+            <div class="badge-content">
+                <div class="badge-title">{{ decision }}</div>
+                <div class="badge-method">Leave Duration: {{ leave_duration }} day(s)</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ================= WHITE MAIN CARD ================= -->
+    <div class="result-main-card">
+
+        <!-- Employee Information -->
+        <h3 class="result-section-title"><span class="icon">ℹ️</span> Employee Information</h3>
+        <div class="result-info-box">
+            <div class="result-info-row">
+                <span class="info-label">Name:</span>
+                <span class="info-value">{{ employee_name }}</span>
+            </div>
+            <div class="result-info-row">
+                <span class="info-label">Employee ID:</span>
+                <span class="info-value">{{ employee_id }}</span>
+            </div>
+            <div class="result-info-row">
+                <span class="info-label">Leave Type:</span>
+                <span class="info-value">{{ leave_type }}</span>
+            </div>
+            <div class="result-info-row">
+                <span class="info-label">Decision Engine:</span>
+                <span class="info-value">{{ method }}</span>
+            </div>
+        </div>
+        
+        <!-- Reason for Rejection/Approval -->
+        <h3 class="result-section-title">
+            <span class="icon">📘</span>
+            {% if decision == 'Approved' %}
+                Reason for Approval
+            {% elif decision == 'Rejected' %}
+                Reason for Rejection
+            {% else %}
+                Additional Information
+            {% endif %}
+        </h3>         
+        <div class="result-explanation-box">
+            {% if decision == 'Approved' %}
+                Your leave request has been approved based on the following factors:
+                <ul style="margin-top: 10px; margin-left: 20px; line-height: 1.8;">
+                    <li>✓ Request successfully passed all rule-based HR policy validations</li>
+                    <li>✓ Service period and leave duration ({{ leave_duration }} days) meet policy requirements</li>
+                    {% if reason_category %}
+                    <li>✓ NLP Analysis categorized reason as "{{ reason_category }}" - valid for {{ leave_type }} leave</li>
+                    {% endif %}
+                    <li>✓ Employment status permits the requested leave type and duration</li>
+                    {% if confidence_score %}
+                    <li>✓ ML Model Confidence: {{ confidence_score }}% approval based on 1000+ training samples</li>
+                    {% endif %}
+                    <li>✓ Logistic Regression model with 55 features predicts: APPROVE</li>
+                    <li>✓ Hybrid AI system (Rules + NLP + ML) recommends approval</li>
+                </ul>
+            {% elif decision == 'Rejected' %}
+                Your leave request has been rejected due to the following reasons:
+                <ul style="margin-top: 10px; margin-left: 20px; line-height: 1.8;">
+                    <li>✕ <strong>Primary Reason:</strong> {{ reason }}</li>
+                    <li>✕ Request failed rule-based validation (Layer 1 of hybrid system)</li>
+                    {% if reason_category %}
+                    <li>✕ NLP categorized as "{{ reason_category }}" but doesn't meet approval criteria</li>
+                    {% endif %}
+                    {% if confidence_score and confidence_score > 60 %}
+                    <li>✕ ML Model predicts rejection with {{ confidence_score }}% confidence</li>
+                    {% endif %}
+                    <li>✕ Does not comply with HR policy limits (service period, duration, or type restrictions)</li>
+                    <li>⚠ Review policy requirements and correct violations before resubmitting</li>
+                    <li>💡 Tip: Refer to HR Policy Rules in documentation for detailed requirements</li>
+                </ul>
+            {% else %}
+                System Error - Manual HR review required:
+                <ul style="margin-top: 10px; margin-left: 20px; line-height: 1.8;">
+                    <li>⚠ <strong>Error Details:</strong> {{ reason }}</li>
+                    <li>⚠ ML model or TF-IDF vectorizer may not be trained properly</li>
+                    <li>⚠ Run <code>python train.py</code> to train the machine learning model</li>
+                    <li>⚠ Ensure models/ml_model.joblib and models/tfidf_vectorizer.joblib exist</li>
+                    <li>⚠ System cannot process through ML layer - defaulting to manual review</li>
+                    <li>📧 HR team notified for manual evaluation</li>
+                    <li>💡 For Developers: Check README.md troubleshooting section</li>
+                </ul>
+            {% endif %}
+        </div>
+        
+        <!-- Confidence Score -->
+        {% if confidence_score is not none %}
+        <h3 class="result-section-title"><span class="icon">🎯</span> Confidence Score</h3>
+        <div class="confidence-container">
+            <div class="confidence-percentage">{{ confidence_score }}%</div>
+            <div class="confidence-bar-wrapper">
+                <div class="confidence-bar" style="--confidence: {{ confidence_score }}%;"></div>
+            </div>
+            <div class="confidence-label">Model Confidence</div>
+        </div>
+        {% endif %}
+
+        <!-- Probability Breakdown -->
+        {% if probabilities is not none %}
+        <h3 class="result-section-title"><span class="icon">📊<span> Classification Probability</h3>
+
+        <div class="probability-container">
+            {% for label, prob in probabilities.items() %}
+            <div class="probability-row">
+                <div class="prob-label">{{ label }}</div>
+                <div class="prob-bar-wrapper">
+                    <div class="prob-bar-fill 
+                        {% if label == 'Approved' %}approved-bar
+                        {% else %}rejected-bar
+                        {% endif %}" 
+                        style="--prob-width: {{ prob }}%;"></div>
+                    </div>
+                <div class="prob-percent">{{ prob }}%</div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        <!-- Next Steps -->
+        <h3 class="result-section-title"><span class="icon">📝</span> Next Steps</h3>
+        <div class="next-steps-box">
+            {% if decision == 'Approved' %}
+                <p>✓ Your leave request has been successfully approved.</p>
+                <p>📧 You will receive an official approval email shortly.</p>
+                <p>🗓 Your leave dates will be updated in the HR attendance system automatically.</p>
+                <p>📢 Your reporting manager will also be notified.</p>
+                <p>🧩 Please ensure your tasks are handed over before your leave begins.</p>
+            {% elif decision == 'Rejected' %}
+                <p>✕ Your leave request did not meet HR policy requirements.</p>
+                <p>📧 You will receive an email detailing why your request was rejected.</p>
+                <p>📝 Review the reason above and adjust your leave dates or supporting documents.</p>
+                <p>📂 Upload any missing or relevant documents if needed.</p>
+                <p>🔄 After updating your request, you may resubmit it for evaluation.</p>
+            {% else %}
+                <p>⚠ Your request requires manual HR review.</p>
+                <p>📢 HR has been notified and will verify your request shortly.</p>
+                <p>📧 You will receive an email once the review is completed.</p>
+                <p>⏳ Additional documents may be requested during verification.</p>
+                <p>🗓 Review may take 24–48 hours depending on priority.</p>
+            {% endif %}
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="button-container">
+            <a href="/download-report" class="result-download-btn" target="_blank">
+                <span class="btn-icon">📄</span>
+                Download Report
+            </a>
+            <a href="/" class="result-submit-btn">
+                <span class="btn-icon">🔄</span>
+                Submit Another Request
+            </a>
+        </div>
+
+    </div>
+
+    <!-- ================= FOOTER ================= -->
+    <footer class="result-footer">
+        <p>Powered by Rule-Based AI + Machine Learning + NLP</p>
+        <p>© 2025 HR-AI Decision System • Built by Charan</p>
+    </footer>
+
+</div>
+
+</body>
+</html>

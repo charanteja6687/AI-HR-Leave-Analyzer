@@ -1,0 +1,1001 @@
+employee_id,employee_name,department,employment_status,joining_date,service_period,leave_type,start_date,end_date,leave_duration,reason,reason_category,approved
+EMP00001,Employee_1,HR,Permanent,2024-05-24,564,Casual,2025-12-14,2025-12-21,8,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00002,Employee_2,HR,Contract,2023-07-28,865,Sick,2025-12-12,2025-12-12,1,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,1
+EMP00003,Employee_3,Engineering,Contract,2024-10-27,408,Emergency,2025-12-24,2025-12-31,8,Family emergency due to sudden hospitalization of parent requiring immediate attention,Emergency,0
+EMP00004,Employee_4,Finance,Contract,2023-07-27,866,Earned,2025-12-14,2025-12-22,9,Anniversary celebration with spouse at planned destination,Personal,0
+EMP00005,Employee_5,HR,Permanent,2023-10-22,779,Sick,2026-01-06,2026-01-17,12,Having flu symptoms and doctor advised rest for few days,Medical,1
+EMP00006,Employee_6,Engineering,Contract,2023-05-13,941,Sick,2025-12-12,2025-12-24,13,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00007,Employee_7,Sales,Contract,2024-11-10,394,Sick,2025-12-31,2026-01-01,2,Having flu symptoms and doctor advised rest for few days,Medical,1
+EMP00008,Employee_8,HR,Permanent,2025-05-16,207,Emergency,2025-12-24,2026-01-01,9,Unexpected family crisis requiring immediate travel back home,Emergency,1
+EMP00009,Employee_9,Finance,Probation,2023-12-12,728,Casual,2026-01-01,2026-01-09,9,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00010,Employee_10,Finance,Contract,2024-07-25,502,Casual,2025-12-22,2026-01-05,15,Want to spend time on personal development activities,Other,0
+EMP00011,Employee_11,Marketing,Contract,2024-02-13,665,Sick,2026-01-05,2026-01-12,8,Need to handle some important personal matters,Other,0
+EMP00012,Employee_12,Operations,Permanent,2024-10-02,433,Earned,2025-12-30,2026-01-05,7,Dental emergency requiring immediate clinic visit and recovery,Medical,1
+EMP00013,Employee_13,Admin,Permanent,2024-06-14,543,Casual,2026-01-02,2026-01-09,8,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00014,Employee_14,Operations,Contract,2023-07-15,878,Emergency,2025-12-17,2025-12-28,12,Death in the family and need to attend funeral arrangements,Emergency,0
+EMP00015,Employee_15,Admin,Permanent,2025-09-03,97,Sick,2025-12-30,2026-01-03,5,Need break from work for personal well-being,Other,0
+EMP00016,Employee_16,IT,Contract,2023-04-25,959,Earned,2026-01-06,2026-01-23,18,Home renovation work supervision requiring presence,Personal,0
+EMP00017,Employee_17,HR,Contract,2024-06-10,547,Earned,2025-12-19,2025-12-22,4,Experiencing severe headache and stomach pain requiring medical attention,Medical,1
+EMP00018,Employee_18,Admin,Permanent,2024-06-17,540,Casual,2026-01-08,2026-01-24,17,Home renovation work supervision requiring presence,Personal,0
+EMP00019,Employee_19,Operations,Contract,2023-02-03,1040,Casual,2025-12-21,2025-12-25,5,Personal commitment to attend cousin's marriage ceremony,Personal,0
+EMP00020,Employee_20,Engineering,Contract,2024-02-14,664,Emergency,2025-12-13,2025-12-13,1,Critical emergency involving elderly family member hospitalization,Emergency,1
+EMP00021,Employee_21,Marketing,Permanent,2024-08-02,494,Sick,2026-01-02,2026-01-04,3,I have a medical appointment scheduled at the hospital for health issues,Medical,1
+EMP00022,Employee_22,Finance,Permanent,2023-04-10,974,Casual,2025-12-26,2026-01-03,9,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00023,Employee_23,Marketing,Contract,2024-10-23,412,Earned,2025-12-31,2026-01-12,13,Personal reasons requiring few days of absence,Other,0
+EMP00024,Employee_24,Admin,Contract,2023-05-29,925,Sick,2025-12-17,2025-12-24,8,Cultural event participation with family members,Personal,0
+EMP00025,Employee_25,Marketing,Contract,2024-09-13,452,Sick,2026-01-01,2026-01-03,3,Need to undergo surgery and recovery time at home,Medical,1
+EMP00026,Employee_26,HR,Permanent,2024-02-01,677,Sick,2025-12-17,2026-01-02,17,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00027,Employee_27,Marketing,Contract,2025-03-13,271,Emergency,2026-01-04,2026-01-11,8,Close relative in critical condition at emergency room,Emergency,0
+EMP00028,Employee_28,Marketing,Permanent,2025-05-24,199,Emergency,2025-12-23,2026-01-03,12,Family emergency due to sudden hospitalization of parent requiring immediate attention,Emergency,1
+EMP00029,Employee_29,HR,Permanent,2023-09-06,825,Earned,2025-12-17,2025-12-20,4,Planned family vacation to spend quality time together,Personal,1
+EMP00030,Employee_30,Admin,Permanent,2023-07-28,865,Casual,2025-12-24,2026-01-01,9,Child's school annual day function and parent participation required,Personal,0
+EMP00031,Employee_31,Admin,Contract,2025-05-22,201,Sick,2026-01-05,2026-01-22,18,Planned family vacation to spend quality time together,Personal,0
+EMP00032,Employee_32,Finance,Probation,2023-03-20,995,Emergency,2026-01-06,2026-01-12,7,Family emergency due to sudden hospitalization of parent requiring immediate attention,Emergency,0
+EMP00033,Employee_33,Finance,Probation,2025-12-04,5,Emergency,2026-01-08,2026-01-16,9,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00034,Employee_34,Operations,Probation,2023-03-18,997,Casual,2025-12-19,2025-12-25,7,Attending family wedding ceremony and related functions,Personal,0
+EMP00035,Employee_35,Engineering,Contract,2024-03-06,643,Sick,2025-12-28,2025-12-29,2,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,1
+EMP00036,Employee_36,Finance,Permanent,2023-02-02,1041,Sick,2025-12-12,2025-12-17,6,Need to undergo surgery and recovery time at home,Medical,1
+EMP00037,Employee_37,IT,Permanent,2024-07-22,505,Sick,2025-12-12,2025-12-31,20,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00038,Employee_38,Sales,Probation,2024-10-16,419,Earned,2025-12-18,2025-12-25,8,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00039,Employee_39,Operations,Probation,2024-03-01,648,Sick,2025-12-24,2025-12-24,1,Dealing with severe migraine attacks requiring rest and medication,Medical,1
+EMP00040,Employee_40,HR,Permanent,2024-09-28,437,Earned,2026-01-08,2026-01-12,5,I have a medical appointment scheduled at the hospital for health issues,Medical,1
+EMP00041,Employee_41,Marketing,Probation,2024-05-04,584,Casual,2026-01-05,2026-01-19,15,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00042,Employee_42,Engineering,Contract,2024-04-04,614,Sick,2025-12-18,2025-12-22,5,Long planned trip for family reunion and bonding,Personal,1
+EMP00043,Employee_43,Operations,Probation,2024-10-03,432,Earned,2025-12-31,2026-01-06,7,Planning to attend professional certification exam,Other,0
+EMP00044,Employee_44,Admin,Probation,2025-08-26,105,Sick,2026-01-05,2026-01-18,14,I am suffering from high fever and need to visit the doctor for checkup,Medical,0
+EMP00045,Employee_45,Sales,Permanent,2024-06-20,537,Casual,2025-12-27,2026-01-10,15,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00046,Employee_46,Engineering,Permanent,2025-07-07,155,Casual,2025-12-11,2025-12-28,18,Need break from work for personal well-being,Other,0
+EMP00047,Employee_47,Finance,Probation,2025-03-22,262,Sick,2025-12-21,2025-12-30,10,I am suffering from high fever and need to visit the doctor for checkup,Medical,0
+EMP00048,Employee_48,Sales,Permanent,2024-07-15,512,Sick,2026-01-03,2026-01-14,12,Dental emergency requiring immediate clinic visit and recovery,Medical,1
+EMP00049,Employee_49,Finance,Permanent,2025-01-10,333,Casual,2025-12-10,2025-12-23,14,Long planned trip for family reunion and bonding,Personal,0
+EMP00050,Employee_50,Sales,Probation,2024-07-18,509,Earned,2026-01-04,2026-01-09,6,Taking break for mental health and stress relief,Other,0
+EMP00051,Employee_51,IT,Permanent,2023-04-20,964,Casual,2026-01-05,2026-01-11,7,Personal reasons requiring few days of absence,Other,0
+EMP00052,Employee_52,Operations,Permanent,2024-09-08,457,Sick,2025-12-22,2025-12-28,7,I have a medical appointment scheduled at the hospital for health issues,Medical,1
+EMP00053,Employee_53,Operations,Probation,2023-01-30,1044,Emergency,2025-12-20,2026-01-06,18,Urgent situation at home needs immediate presence and resolution,Emergency,0
+EMP00054,Employee_54,Operations,Permanent,2024-06-13,544,Sick,2025-12-29,2026-01-01,4,Diagnosed with infection and need time for medication and treatment,Medical,1
+EMP00055,Employee_55,IT,Contract,2023-01-26,1048,Sick,2026-01-07,2026-01-19,13,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00056,Employee_56,Engineering,Contract,2023-06-29,894,Sick,2026-01-08,2026-01-24,17,Need to undergo surgery and recovery time at home,Medical,0
+EMP00057,Employee_57,Sales,Probation,2025-07-18,144,Earned,2025-12-20,2026-01-08,20,Taking break for mental health and stress relief,Other,0
+EMP00058,Employee_58,Operations,Contract,2024-03-15,634,Emergency,2025-12-22,2026-01-01,11,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00059,Employee_59,Finance,Permanent,2023-07-31,862,Emergency,2025-12-29,2026-01-03,6,Close relative in critical condition at emergency room,Emergency,1
+EMP00060,Employee_60,Engineering,Probation,2024-04-30,588,Casual,2026-01-04,2026-01-17,14,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00061,Employee_61,Sales,Probation,2023-06-18,905,Emergency,2025-12-26,2026-01-01,7,Death in the family and need to attend funeral arrangements,Emergency,0
+EMP00062,Employee_62,HR,Probation,2023-01-18,1056,Earned,2026-01-05,2026-01-07,3,Home renovation work supervision requiring presence,Personal,0
+EMP00063,Employee_63,Operations,Permanent,2024-10-27,408,Casual,2025-12-11,2025-12-11,1,Parent's birthday celebration and family get together,Personal,1
+EMP00064,Employee_64,HR,Probation,2023-08-13,849,Casual,2025-12-25,2026-01-06,13,Need time to complete pending personal documentation work,Other,0
+EMP00065,Employee_65,Finance,Contract,2025-11-27,12,Sick,2025-12-17,2025-12-30,14,Need some days off for personal work and errands,Other,0
+EMP00066,Employee_66,Marketing,Permanent,2023-05-19,935,Casual,2025-12-31,2026-01-14,15,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00067,Employee_67,Sales,Probation,2023-02-09,1034,Emergency,2025-12-24,2026-01-10,18,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00068,Employee_68,Admin,Probation,2024-07-20,507,Earned,2025-12-25,2026-01-10,17,Need time to complete pending personal documentation work,Other,0
+EMP00069,Employee_69,Operations,Probation,2025-07-03,159,Earned,2025-12-18,2025-12-25,8,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00070,Employee_70,HR,Permanent,2025-02-03,309,Casual,2026-01-01,2026-01-13,13,Long planned trip for family reunion and bonding,Personal,0
+EMP00071,Employee_71,Marketing,Permanent,2023-08-12,850,Emergency,2025-12-27,2026-01-06,11,Family emergency due to sudden hospitalization of parent requiring immediate attention,Emergency,1
+EMP00072,Employee_72,Marketing,Probation,2023-10-03,798,Sick,2025-12-22,2026-01-09,19,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00073,Employee_73,Operations,Probation,2023-08-03,859,Casual,2025-12-17,2026-01-01,16,Need to handle some important personal matters,Other,0
+EMP00074,Employee_74,Admin,Permanent,2023-10-04,797,Earned,2026-01-02,2026-01-14,13,Parent's birthday celebration and family get together,Personal,1
+EMP00075,Employee_75,Engineering,Probation,2025-10-14,56,Sick,2025-12-14,2025-12-27,14,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00076,Employee_76,Engineering,Probation,2023-10-24,777,Earned,2025-12-24,2025-12-30,7,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00077,Employee_77,IT,Probation,2023-07-29,864,Earned,2025-12-25,2025-12-27,3,Long planned trip for family reunion and bonding,Personal,0
+EMP00078,Employee_78,Engineering,Probation,2024-09-05,460,Sick,2026-01-03,2026-01-04,2,Planned family vacation to spend quality time together,Personal,1
+EMP00079,Employee_79,Engineering,Contract,2025-01-30,313,Casual,2025-12-25,2025-12-29,5,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00080,Employee_80,Marketing,Probation,2024-07-02,525,Earned,2025-12-29,2026-01-03,6,Taking break for mental health and stress relief,Other,0
+EMP00081,Employee_81,Finance,Probation,2025-05-01,222,Sick,2025-12-28,2026-01-06,10,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00082,Employee_82,IT,Contract,2024-10-28,407,Sick,2026-01-01,2026-01-19,19,Need to undergo surgery and recovery time at home,Medical,0
+EMP00083,Employee_83,HR,Contract,2024-03-31,618,Sick,2026-01-04,2026-01-22,19,Personal reasons requiring few days of absence,Other,0
+EMP00084,Employee_84,HR,Contract,2024-01-10,699,Sick,2026-01-05,2026-01-18,14,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00085,Employee_85,Sales,Contract,2023-05-12,942,Casual,2025-12-15,2025-12-28,14,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00086,Employee_86,Operations,Contract,2023-03-24,991,Emergency,2026-01-05,2026-01-18,14,Critical emergency involving elderly family member hospitalization,Emergency,0
+EMP00087,Employee_87,Sales,Permanent,2025-06-14,178,Earned,2025-12-17,2025-12-31,15,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00088,Employee_88,IT,Probation,2025-10-11,59,Emergency,2025-12-15,2025-12-25,11,Unexpected family crisis requiring immediate travel back home,Emergency,0
+EMP00089,Employee_89,Operations,Probation,2024-05-15,573,Earned,2025-12-10,2025-12-27,18,Need time to complete pending personal documentation work,Other,0
+EMP00090,Employee_90,HR,Permanent,2023-08-29,833,Emergency,2026-01-03,2026-01-20,18,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00091,Employee_91,Admin,Probation,2025-11-03,36,Sick,2025-12-17,2025-12-26,10,Need to undergo surgery and recovery time at home,Medical,0
+EMP00092,Employee_92,Operations,Contract,2023-11-14,756,Emergency,2025-12-26,2026-01-12,18,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00093,Employee_93,Sales,Probation,2023-05-24,930,Earned,2025-12-18,2025-12-27,10,Child's school annual day function and parent participation required,Personal,0
+EMP00094,Employee_94,Marketing,Probation,2025-04-08,245,Casual,2025-12-16,2025-12-22,7,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00095,Employee_95,Operations,Contract,2022-12-30,1075,Earned,2026-01-05,2026-01-08,4,Religious festival celebration with family gathering,Personal,0
+EMP00096,Employee_96,Finance,Probation,2025-11-10,29,Casual,2025-12-11,2025-12-19,9,Personal commitment to attend cousin's marriage ceremony,Personal,0
+EMP00097,Employee_97,Operations,Contract,2025-03-25,259,Emergency,2026-01-06,2026-01-09,4,Parent's birthday celebration and family get together,Personal,0
+EMP00098,Employee_98,Admin,Probation,2024-01-11,698,Casual,2025-12-18,2025-12-19,2,Taking break for mental health and stress relief,Other,1
+EMP00099,Employee_99,HR,Probation,2023-03-07,1008,Sick,2025-12-30,2026-01-17,19,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00100,Employee_100,Finance,Contract,2024-03-26,623,Sick,2025-12-13,2025-12-20,8,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00101,Employee_101,Marketing,Contract,2023-10-21,780,Emergency,2025-12-19,2026-01-02,15,Close relative in critical condition at emergency room,Emergency,0
+EMP00102,Employee_102,Operations,Contract,2025-08-07,124,Sick,2025-12-30,2026-01-05,7,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00103,Employee_103,Finance,Permanent,2024-12-18,356,Sick,2025-12-10,2025-12-15,6,Dealing with severe migraine attacks requiring rest and medication,Medical,1
+EMP00104,Employee_104,Admin,Probation,2025-10-03,67,Casual,2026-01-01,2026-01-10,10,Taking time off for self-care and rejuvenation,Other,0
+EMP00105,Employee_105,HR,Contract,2024-08-17,479,Earned,2025-12-31,2026-01-18,19,Attending important family function out of town,Personal,0
+EMP00106,Employee_106,HR,Contract,2024-09-04,461,Casual,2026-01-05,2026-01-13,9,Child's school annual day function and parent participation required,Personal,0
+EMP00107,Employee_107,Engineering,Permanent,2024-03-19,630,Earned,2025-12-13,2025-12-27,15,Having flu symptoms and doctor advised rest for few days,Medical,1
+EMP00108,Employee_108,IT,Probation,2023-02-18,1025,Emergency,2025-12-12,2025-12-26,15,Close relative in critical condition at emergency room,Emergency,0
+EMP00109,Employee_109,Sales,Contract,2024-07-14,513,Sick,2025-12-17,2025-12-19,3,Dealing with severe migraine attacks requiring rest and medication,Medical,1
+EMP00110,Employee_110,Engineering,Contract,2024-06-05,552,Sick,2025-12-25,2025-12-30,6,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00111,Employee_111,Operations,Permanent,2023-06-30,893,Emergency,2025-12-25,2025-12-27,3,Unexpected family crisis requiring immediate travel back home,Emergency,1
+EMP00112,Employee_112,Sales,Contract,2025-05-08,215,Casual,2025-12-23,2026-01-02,11,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00113,Employee_113,Operations,Contract,2023-09-10,821,Sick,2025-12-12,2025-12-26,15,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00114,Employee_114,HR,Probation,2023-01-20,1054,Sick,2025-12-24,2026-01-10,18,Need to undergo surgery and recovery time at home,Medical,0
+EMP00115,Employee_115,Sales,Contract,2023-02-22,1021,Emergency,2025-12-16,2025-12-17,2,Death in the family and need to attend funeral arrangements,Emergency,1
+EMP00116,Employee_116,Operations,Probation,2023-03-22,993,Sick,2025-12-30,2025-12-30,1,Need to undergo surgery and recovery time at home,Medical,1
+EMP00117,Employee_117,Finance,Probation,2025-11-10,29,Emergency,2025-12-17,2025-12-19,3,Urgent situation at home needs immediate presence and resolution,Emergency,0
+EMP00118,Employee_118,Admin,Permanent,2025-01-27,316,Emergency,2025-12-26,2026-01-04,10,Close relative in critical condition at emergency room,Emergency,1
+EMP00119,Employee_119,Admin,Probation,2024-07-27,500,Emergency,2025-12-14,2025-12-31,18,Urgent legal matter requiring immediate personal presence,Emergency,0
+EMP00120,Employee_120,Finance,Permanent,2024-05-22,566,Emergency,2026-01-08,2026-01-18,11,Critical emergency involving elderly family member hospitalization,Emergency,1
+EMP00121,Employee_121,Engineering,Probation,2024-04-06,612,Emergency,2025-12-24,2025-12-28,5,Unexpected family crisis requiring immediate travel back home,Emergency,0
+EMP00122,Employee_122,Sales,Contract,2023-10-28,773,Emergency,2026-01-06,2026-01-16,11,Child met with an accident and needs immediate care,Emergency,0
+EMP00123,Employee_123,IT,Permanent,2023-08-20,842,Sick,2026-01-02,2026-01-12,11,Dental emergency requiring immediate clinic visit and recovery,Medical,1
+EMP00124,Employee_124,IT,Contract,2025-01-31,312,Emergency,2025-12-14,2025-12-15,2,Urgent legal matter requiring immediate personal presence,Emergency,1
+EMP00125,Employee_125,Sales,Permanent,2023-06-21,902,Sick,2026-01-08,2026-01-24,17,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00126,Employee_126,IT,Contract,2025-01-26,317,Sick,2026-01-04,2026-01-19,16,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00127,Employee_127,IT,Contract,2025-06-27,165,Earned,2025-12-22,2026-01-08,18,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00128,Employee_128,Engineering,Contract,2025-07-21,141,Casual,2025-12-17,2025-12-26,10,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00129,Employee_129,IT,Permanent,2025-05-17,206,Emergency,2026-01-01,2026-01-06,6,Family emergency due to sudden hospitalization of parent requiring immediate attention,Emergency,1
+EMP00130,Employee_130,Engineering,Probation,2025-08-16,115,Earned,2025-12-21,2026-01-01,12,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00131,Employee_131,Marketing,Contract,2023-08-18,844,Casual,2025-12-15,2025-12-20,6,Cultural event participation with family members,Personal,0
+EMP00132,Employee_132,IT,Contract,2024-08-02,494,Emergency,2025-12-14,2026-01-01,19,Critical emergency involving elderly family member hospitalization,Emergency,0
+EMP00133,Employee_133,Admin,Probation,2025-11-19,20,Emergency,2025-12-31,2026-01-09,10,Urgent situation at home needs immediate presence and resolution,Emergency,0
+EMP00134,Employee_134,Admin,Probation,2024-04-05,613,Emergency,2025-12-24,2026-01-01,9,Child met with an accident and needs immediate care,Emergency,0
+EMP00135,Employee_135,IT,Probation,2025-05-04,219,Casual,2025-12-28,2026-01-09,13,Need break from work for personal well-being,Other,0
+EMP00136,Employee_136,Operations,Contract,2024-04-13,605,Sick,2025-12-18,2025-12-30,13,Cultural event participation with family members,Personal,0
+EMP00137,Employee_137,Admin,Probation,2024-08-24,472,Earned,2025-12-30,2026-01-06,8,Cultural event participation with family members,Personal,0
+EMP00138,Employee_138,Operations,Contract,2025-03-03,281,Sick,2025-12-19,2025-12-20,2,I am suffering from high fever and need to visit the doctor for checkup,Medical,1
+EMP00139,Employee_139,Sales,Contract,2025-03-14,270,Sick,2025-12-20,2025-12-29,10,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00140,Employee_140,Marketing,Permanent,2023-11-20,750,Earned,2025-12-18,2025-12-23,6,Having flu symptoms and doctor advised rest for few days,Medical,1
+EMP00141,Employee_141,Sales,Permanent,2023-04-24,960,Sick,2026-01-03,2026-01-07,5,Dental emergency requiring immediate clinic visit and recovery,Medical,1
+EMP00142,Employee_142,Sales,Permanent,2023-09-22,809,Sick,2025-12-27,2026-01-04,9,Planning to attend professional certification exam,Other,1
+EMP00143,Employee_143,Sales,Permanent,2024-08-17,479,Emergency,2025-12-29,2025-12-29,1,Sudden family bereavement and funeral ceremony attendance,Emergency,1
+EMP00144,Employee_144,Sales,Contract,2024-09-11,454,Sick,2026-01-08,2026-01-22,15,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00145,Employee_145,HR,Permanent,2025-09-07,93,Sick,2025-12-25,2026-01-03,10,Personal commitment to attend cousin's marriage ceremony,Personal,0
+EMP00146,Employee_146,Admin,Probation,2023-08-03,859,Casual,2025-12-30,2026-01-12,14,Parent's birthday celebration and family get together,Personal,0
+EMP00147,Employee_147,IT,Probation,2025-10-02,68,Earned,2025-12-24,2025-12-30,7,Need to undergo surgery and recovery time at home,Medical,0
+EMP00148,Employee_148,Sales,Permanent,2023-11-17,753,Earned,2025-12-22,2025-12-23,2,Need to undergo surgery and recovery time at home,Medical,1
+EMP00149,Employee_149,HR,Probation,2025-06-04,188,Casual,2025-12-10,2025-12-29,20,Anniversary celebration with spouse at planned destination,Personal,0
+EMP00150,Employee_150,Marketing,Permanent,2024-10-14,421,Sick,2025-12-16,2026-01-02,18,Need to undergo surgery and recovery time at home,Medical,0
+EMP00151,Employee_151,Sales,Permanent,2025-12-03,6,Earned,2025-12-14,2025-12-18,5,Planning to attend professional certification exam,Other,0
+EMP00152,Employee_152,Finance,Permanent,2025-10-17,53,Casual,2025-12-21,2025-12-21,1,Cultural event participation with family members,Personal,1
+EMP00153,Employee_153,Sales,Permanent,2024-12-17,357,Earned,2025-12-14,2025-12-15,2,Need to handle some important personal matters,Other,1
+EMP00154,Employee_154,HR,Contract,2025-07-31,131,Emergency,2026-01-03,2026-01-17,15,Urgent legal matter requiring immediate personal presence,Emergency,0
+EMP00155,Employee_155,HR,Probation,2023-02-11,1032,Casual,2025-12-11,2025-12-30,20,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00156,Employee_156,Operations,Probation,2025-10-06,64,Sick,2026-01-06,2026-01-21,16,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00157,Employee_157,Admin,Contract,2023-06-14,909,Sick,2025-12-20,2025-12-22,3,I have a medical appointment scheduled at the hospital for health issues,Medical,1
+EMP00158,Employee_158,Finance,Probation,2024-02-12,666,Emergency,2025-12-26,2026-01-14,20,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00159,Employee_159,IT,Permanent,2025-04-18,235,Casual,2025-12-24,2026-01-06,14,Attending important family function out of town,Personal,0
+EMP00160,Employee_160,Sales,Probation,2023-09-14,817,Emergency,2025-12-20,2025-12-23,4,Critical emergency involving elderly family member hospitalization,Emergency,0
+EMP00161,Employee_161,Sales,Permanent,2023-04-12,972,Sick,2026-01-05,2026-01-07,3,Taking break for mental health and stress relief,Other,1
+EMP00162,Employee_162,Sales,Permanent,2025-08-08,123,Earned,2025-12-23,2025-12-26,4,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00163,Employee_163,Engineering,Probation,2024-03-09,640,Earned,2025-12-28,2025-12-31,4,Need time to complete pending personal documentation work,Other,0
+EMP00164,Employee_164,Finance,Contract,2023-03-27,988,Casual,2025-12-21,2025-12-24,4,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00165,Employee_165,HR,Probation,2024-09-01,464,Emergency,2026-01-03,2026-01-20,18,Urgent legal matter requiring immediate personal presence,Emergency,0
+EMP00166,Employee_166,Engineering,Contract,2024-06-09,548,Sick,2025-12-18,2025-12-23,6,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00167,Employee_167,Sales,Probation,2025-11-26,13,Casual,2025-12-28,2026-01-01,5,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00168,Employee_168,HR,Permanent,2025-10-07,63,Sick,2025-12-16,2026-01-01,17,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00169,Employee_169,Sales,Permanent,2023-11-12,758,Earned,2026-01-03,2026-01-13,11,Need break from work for personal well-being,Other,0
+EMP00170,Employee_170,HR,Permanent,2025-01-24,319,Casual,2025-12-11,2025-12-30,20,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00171,Employee_171,Operations,Probation,2023-07-24,869,Emergency,2025-12-24,2026-01-12,20,Child met with an accident and needs immediate care,Emergency,0
+EMP00172,Employee_172,HR,Probation,2023-07-12,881,Sick,2025-12-31,2026-01-09,10,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00173,Employee_173,Operations,Permanent,2024-09-13,452,Emergency,2025-12-11,2025-12-30,20,Planned family vacation to spend quality time together,Personal,0
+EMP00174,Employee_174,Finance,Probation,2024-04-25,593,Earned,2025-12-10,2025-12-13,4,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00175,Employee_175,Finance,Permanent,2023-10-22,779,Casual,2025-12-27,2026-01-12,17,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00176,Employee_176,HR,Probation,2025-09-13,87,Emergency,2025-12-24,2025-12-24,1,Unexpected family crisis requiring immediate travel back home,Emergency,1
+EMP00177,Employee_177,IT,Contract,2023-09-02,829,Emergency,2025-12-13,2025-12-22,10,Unexpected family crisis requiring immediate travel back home,Emergency,0
+EMP00178,Employee_178,Finance,Contract,2023-05-11,943,Earned,2025-12-23,2025-12-25,3,Planned family vacation to spend quality time together,Personal,1
+EMP00179,Employee_179,IT,Contract,2023-09-10,821,Sick,2026-01-06,2026-01-18,13,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00180,Employee_180,Marketing,Probation,2024-12-29,345,Sick,2025-12-30,2026-01-15,17,Anniversary celebration with spouse at planned destination,Personal,0
+EMP00181,Employee_181,Sales,Contract,2025-02-09,303,Casual,2025-12-14,2025-12-17,4,Need time to complete pending personal documentation work,Other,0
+EMP00182,Employee_182,Finance,Contract,2025-01-29,314,Sick,2026-01-03,2026-01-08,6,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00183,Employee_183,Admin,Contract,2024-02-16,662,Earned,2025-12-24,2025-12-28,5,Parent's birthday celebration and family get together,Personal,1
+EMP00184,Employee_184,Operations,Probation,2025-08-15,116,Earned,2025-12-12,2025-12-28,17,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00185,Employee_185,Admin,Permanent,2025-08-14,117,Earned,2025-12-12,2025-12-21,10,Taking break for mental health and stress relief,Other,0
+EMP00186,Employee_186,IT,Probation,2025-09-15,85,Emergency,2025-12-30,2026-01-17,19,Urgent legal matter requiring immediate personal presence,Emergency,0
+EMP00187,Employee_187,Admin,Contract,2025-02-03,309,Sick,2025-12-13,2025-12-27,15,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00188,Employee_188,HR,Contract,2024-12-20,354,Sick,2026-01-01,2026-01-08,8,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00189,Employee_189,Finance,Probation,2023-11-06,764,Earned,2025-12-23,2026-01-04,13,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00190,Employee_190,Engineering,Contract,2024-01-23,686,Sick,2025-12-13,2025-12-23,11,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00191,Employee_191,Operations,Probation,2025-02-04,308,Earned,2025-12-28,2025-12-30,3,Want to pursue personal hobby project during time off,Other,0
+EMP00192,Employee_192,Sales,Probation,2023-09-28,803,Casual,2026-01-01,2026-01-20,20,Religious festival celebration with family gathering,Personal,0
+EMP00193,Employee_193,IT,Contract,2024-02-05,673,Casual,2025-12-12,2025-12-28,17,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00194,Employee_194,Sales,Permanent,2023-11-27,743,Earned,2025-12-16,2025-12-21,6,Chronic back pain has worsened and need physiotherapy sessions,Medical,1
+EMP00195,Employee_195,Marketing,Permanent,2025-03-02,282,Casual,2025-12-19,2025-12-21,3,Personal commitment to attend cousin's marriage ceremony,Personal,1
+EMP00196,Employee_196,Engineering,Contract,2024-01-19,690,Casual,2025-12-22,2026-01-10,20,Moving to new house and need time for relocation activities,Personal,0
+EMP00197,Employee_197,Finance,Contract,2025-01-03,340,Emergency,2025-12-23,2025-12-24,2,Child met with an accident and needs immediate care,Emergency,1
+EMP00198,Employee_198,Admin,Contract,2024-05-04,584,Emergency,2025-12-27,2026-01-03,8,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00199,Employee_199,Marketing,Probation,2023-06-20,903,Emergency,2026-01-03,2026-01-12,10,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00200,Employee_200,IT,Permanent,2024-10-26,409,Casual,2025-12-11,2025-12-19,9,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00201,Employee_201,Sales,Contract,2025-05-12,211,Sick,2025-12-12,2025-12-21,10,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00202,Employee_202,Admin,Contract,2025-02-10,302,Emergency,2026-01-08,2026-01-10,3,Home emergency due to natural disaster requiring immediate action,Emergency,1
+EMP00203,Employee_203,Sales,Permanent,2023-08-12,850,Sick,2025-12-26,2026-01-07,13,Dental emergency requiring immediate clinic visit and recovery,Medical,1
+EMP00204,Employee_204,HR,Probation,2024-09-05,460,Sick,2026-01-08,2026-01-18,11,Want to pursue personal hobby project during time off,Other,0
+EMP00205,Employee_205,Finance,Permanent,2024-04-30,588,Emergency,2026-01-03,2026-01-07,5,Home emergency due to natural disaster requiring immediate action,Emergency,1
+EMP00206,Employee_206,Engineering,Permanent,2025-10-31,39,Earned,2026-01-05,2026-01-11,7,Personal commitment to attend cousin's marriage ceremony,Personal,0
+EMP00207,Employee_207,IT,Permanent,2024-04-27,591,Casual,2025-12-13,2025-12-22,10,Planned family vacation to spend quality time together,Personal,0
+EMP00208,Employee_208,IT,Contract,2023-05-17,937,Sick,2026-01-05,2026-01-08,4,Dealing with severe migraine attacks requiring rest and medication,Medical,1
+EMP00209,Employee_209,Engineering,Contract,2023-01-18,1056,Casual,2025-12-19,2025-12-23,5,Need some days off for personal work and errands,Other,0
+EMP00210,Employee_210,Sales,Permanent,2023-08-08,854,Casual,2025-12-26,2025-12-28,3,Taking break for mental health and stress relief,Other,1
+EMP00211,Employee_211,Engineering,Probation,2023-04-21,963,Sick,2025-12-21,2026-01-02,13,I am suffering from high fever and need to visit the doctor for checkup,Medical,0
+EMP00212,Employee_212,Sales,Permanent,2024-01-02,707,Casual,2026-01-03,2026-01-06,4,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00213,Employee_213,Finance,Permanent,2023-12-18,722,Earned,2026-01-05,2026-01-10,6,Taking time off for self-care and rejuvenation,Other,1
+EMP00214,Employee_214,Admin,Contract,2024-11-30,374,Casual,2026-01-01,2026-01-03,3,Need some days off for personal work and errands,Other,1
+EMP00215,Employee_215,Operations,Permanent,2025-09-10,90,Casual,2025-12-20,2025-12-21,2,Want to spend time on personal development activities,Other,1
+EMP00216,Employee_216,IT,Contract,2023-04-14,970,Earned,2026-01-03,2026-01-04,2,Need time to complete pending personal documentation work,Other,1
+EMP00217,Employee_217,Operations,Probation,2025-09-02,98,Earned,2025-12-13,2025-12-21,9,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00218,Employee_218,IT,Contract,2023-06-22,901,Emergency,2025-12-15,2025-12-25,11,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00219,Employee_219,Sales,Contract,2024-06-10,547,Sick,2025-12-12,2025-12-25,14,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00220,Employee_220,Operations,Probation,2025-05-12,211,Sick,2025-12-31,2026-01-10,11,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00221,Employee_221,IT,Permanent,2023-06-13,910,Earned,2025-12-11,2025-12-25,15,Personal reasons requiring few days of absence,Other,0
+EMP00222,Employee_222,IT,Probation,2025-08-13,118,Sick,2025-12-21,2026-01-02,13,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00223,Employee_223,Engineering,Permanent,2023-06-25,898,Sick,2025-12-12,2025-12-16,5,Diagnosed with infection and need time for medication and treatment,Medical,1
+EMP00224,Employee_224,Sales,Probation,2025-10-03,67,Casual,2025-12-21,2026-01-04,15,Taking time off for self-care and rejuvenation,Other,0
+EMP00225,Employee_225,HR,Contract,2025-03-02,282,Earned,2025-12-20,2026-01-01,13,Planning to attend professional certification exam,Other,0
+EMP00226,Employee_226,Marketing,Permanent,2025-10-16,54,Casual,2025-12-26,2026-01-10,16,Want to spend time on personal development activities,Other,0
+EMP00227,Employee_227,HR,Probation,2024-06-23,534,Emergency,2025-12-29,2026-01-04,7,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00228,Employee_228,Marketing,Permanent,2025-03-06,278,Sick,2025-12-15,2025-12-29,15,Chronic back pain has worsened and need physiotherapy sessions,Medical,1
+EMP00229,Employee_229,HR,Contract,2024-02-23,655,Earned,2025-12-27,2025-12-29,3,Planning to attend professional certification exam,Other,1
+EMP00230,Employee_230,Operations,Permanent,2024-12-17,357,Earned,2025-12-17,2026-01-02,17,Planned family vacation to spend quality time together,Personal,0
+EMP00231,Employee_231,Finance,Permanent,2023-03-03,1012,Sick,2025-12-27,2026-01-07,12,Chronic back pain has worsened and need physiotherapy sessions,Medical,1
+EMP00232,Employee_232,Finance,Contract,2025-06-15,177,Sick,2025-12-22,2025-12-31,10,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00233,Employee_233,IT,Probation,2025-07-10,152,Casual,2025-12-30,2026-01-09,11,Parent's birthday celebration and family get together,Personal,0
+EMP00234,Employee_234,Admin,Contract,2023-01-14,1060,Earned,2026-01-07,2026-01-11,5,Need break from work for personal well-being,Other,0
+EMP00235,Employee_235,Finance,Probation,2023-02-13,1030,Sick,2025-12-26,2025-12-29,4,Moving to new house and need time for relocation activities,Personal,0
+EMP00236,Employee_236,Sales,Contract,2024-09-03,462,Earned,2026-01-07,2026-01-23,17,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00237,Employee_237,Operations,Permanent,2024-05-25,563,Casual,2025-12-29,2026-01-07,10,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00238,Employee_238,Finance,Contract,2025-01-27,316,Casual,2026-01-02,2026-01-21,20,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00239,Employee_239,Engineering,Permanent,2025-06-25,167,Sick,2025-12-18,2026-01-05,19,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00240,Employee_240,IT,Contract,2025-10-07,63,Emergency,2025-12-19,2026-01-05,18,Critical emergency involving elderly family member hospitalization,Emergency,0
+EMP00241,Employee_241,Admin,Permanent,2023-08-30,832,Earned,2025-12-12,2025-12-26,15,Need some days off for personal work and errands,Other,0
+EMP00242,Employee_242,Finance,Probation,2023-08-10,852,Emergency,2025-12-16,2025-12-30,15,Death in the family and need to attend funeral arrangements,Emergency,0
+EMP00243,Employee_243,Sales,Contract,2024-02-24,654,Earned,2025-12-14,2025-12-26,13,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00244,Employee_244,HR,Probation,2024-07-31,496,Emergency,2025-12-18,2025-12-21,4,Death in the family and need to attend funeral arrangements,Emergency,0
+EMP00245,Employee_245,HR,Permanent,2024-04-23,595,Emergency,2025-12-23,2026-01-11,20,Death in the family and need to attend funeral arrangements,Emergency,0
+EMP00246,Employee_246,Sales,Contract,2024-03-08,641,Casual,2025-12-25,2025-12-30,6,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00247,Employee_247,Admin,Probation,2023-02-24,1019,Sick,2025-12-22,2025-12-24,3,Need to undergo surgery and recovery time at home,Medical,0
+EMP00248,Employee_248,Marketing,Contract,2023-12-17,723,Sick,2025-12-19,2025-12-20,2,Chronic back pain has worsened and need physiotherapy sessions,Medical,1
+EMP00249,Employee_249,Operations,Contract,2025-11-22,17,Sick,2025-12-14,2025-12-27,14,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00250,Employee_250,IT,Probation,2025-09-07,93,Emergency,2025-12-28,2025-12-29,2,Unexpected family crisis requiring immediate travel back home,Emergency,1
+EMP00251,Employee_251,Operations,Permanent,2023-10-09,792,Emergency,2025-12-18,2026-01-04,18,Urgent legal matter requiring immediate personal presence,Emergency,0
+EMP00252,Employee_252,HR,Permanent,2025-05-24,199,Emergency,2026-01-04,2026-01-15,12,Sudden family bereavement and funeral ceremony attendance,Emergency,1
+EMP00253,Employee_253,Sales,Permanent,2024-10-27,408,Emergency,2025-12-11,2025-12-27,17,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00254,Employee_254,Admin,Contract,2023-05-18,936,Casual,2026-01-07,2026-01-26,20,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00255,Employee_255,Sales,Contract,2024-02-25,653,Casual,2025-12-29,2026-01-10,13,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00256,Employee_256,Sales,Contract,2023-01-30,1044,Emergency,2025-12-19,2026-01-06,19,Family emergency due to sudden hospitalization of parent requiring immediate attention,Emergency,0
+EMP00257,Employee_257,Sales,Probation,2025-04-28,225,Emergency,2025-12-19,2026-01-06,19,Family emergency due to sudden hospitalization of parent requiring immediate attention,Emergency,0
+EMP00258,Employee_258,Admin,Probation,2024-08-29,467,Sick,2025-12-25,2026-01-12,19,Want to pursue personal hobby project during time off,Other,0
+EMP00259,Employee_259,Marketing,Permanent,2025-04-27,226,Casual,2025-12-24,2025-12-24,1,Need to handle some important personal matters,Other,1
+EMP00260,Employee_260,Finance,Probation,2024-10-17,418,Emergency,2026-01-03,2026-01-19,17,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00261,Employee_261,Engineering,Contract,2025-03-01,283,Casual,2025-12-20,2026-01-06,18,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00262,Employee_262,IT,Probation,2024-12-19,355,Emergency,2025-12-20,2026-01-06,18,Critical emergency involving elderly family member hospitalization,Emergency,0
+EMP00263,Employee_263,Admin,Permanent,2024-07-22,505,Earned,2025-12-19,2026-01-05,18,Religious festival celebration with family gathering,Personal,0
+EMP00264,Employee_264,Operations,Contract,2024-10-10,425,Emergency,2025-12-25,2026-01-04,11,Critical emergency involving elderly family member hospitalization,Emergency,0
+EMP00265,Employee_265,Operations,Permanent,2023-10-23,778,Emergency,2026-01-03,2026-01-14,12,Critical emergency involving elderly family member hospitalization,Emergency,1
+EMP00266,Employee_266,Engineering,Probation,2025-06-30,162,Earned,2025-12-30,2026-01-13,15,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00267,Employee_267,Marketing,Permanent,2024-06-01,556,Earned,2025-12-13,2025-12-17,5,Need break from work for personal well-being,Other,1
+EMP00268,Employee_268,Marketing,Permanent,2025-08-27,104,Casual,2025-12-11,2025-12-18,8,Attending important family function out of town,Personal,0
+EMP00269,Employee_269,Sales,Contract,2023-04-16,968,Sick,2025-12-10,2025-12-14,5,Experiencing severe headache and stomach pain requiring medical attention,Medical,1
+EMP00270,Employee_270,IT,Contract,2023-04-09,975,Emergency,2026-01-03,2026-01-09,7,Unexpected family crisis requiring immediate travel back home,Emergency,0
+EMP00271,Employee_271,Operations,Contract,2025-08-09,122,Sick,2025-12-17,2026-01-04,19,I am suffering from high fever and need to visit the doctor for checkup,Medical,0
+EMP00272,Employee_272,Finance,Probation,2024-12-13,361,Sick,2026-01-04,2026-01-16,13,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00273,Employee_273,Engineering,Permanent,2024-04-06,612,Sick,2025-12-19,2025-12-29,11,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,1
+EMP00274,Employee_274,Admin,Permanent,2023-02-10,1033,Emergency,2025-12-16,2025-12-24,9,Unexpected family crisis requiring immediate travel back home,Emergency,1
+EMP00275,Employee_275,Finance,Contract,2023-05-14,940,Earned,2025-12-10,2025-12-15,6,Personal reasons requiring few days of absence,Other,0
+EMP00276,Employee_276,Operations,Contract,2024-11-08,396,Casual,2026-01-06,2026-01-25,20,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00277,Employee_277,IT,Contract,2024-02-06,672,Sick,2025-12-31,2026-01-12,13,Parent's birthday celebration and family get together,Personal,0
+EMP00278,Employee_278,Sales,Permanent,2025-11-25,14,Earned,2025-12-17,2025-12-29,13,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00279,Employee_279,Sales,Probation,2025-11-15,24,Earned,2026-01-01,2026-01-12,12,Attending family wedding ceremony and related functions,Personal,0
+EMP00280,Employee_280,HR,Probation,2024-03-20,629,Casual,2025-12-31,2026-01-12,13,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00281,Employee_281,HR,Contract,2024-04-13,605,Earned,2025-12-17,2026-01-05,20,Moving to new house and need time for relocation activities,Personal,0
+EMP00282,Employee_282,Admin,Permanent,2023-05-22,932,Earned,2026-01-01,2026-01-14,14,Taking time off for self-care and rejuvenation,Other,0
+EMP00283,Employee_283,Marketing,Permanent,2025-06-24,168,Emergency,2026-01-01,2026-01-17,17,Urgent legal matter requiring immediate personal presence,Emergency,0
+EMP00284,Employee_284,HR,Permanent,2023-02-07,1036,Casual,2025-12-27,2026-01-14,19,Moving to new house and need time for relocation activities,Personal,0
+EMP00285,Employee_285,Sales,Contract,2023-06-18,905,Sick,2026-01-01,2026-01-07,7,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00286,Employee_286,Admin,Permanent,2023-05-25,929,Casual,2025-12-23,2026-01-08,17,Need break from work for personal well-being,Other,0
+EMP00287,Employee_287,Engineering,Contract,2023-05-07,947,Earned,2025-12-22,2025-12-22,1,I am suffering from high fever and need to visit the doctor for checkup,Medical,1
+EMP00288,Employee_288,Marketing,Contract,2025-07-12,150,Sick,2025-12-21,2026-01-03,14,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00289,Employee_289,Engineering,Permanent,2023-04-17,967,Sick,2025-12-23,2026-01-01,10,Home renovation work supervision requiring presence,Personal,1
+EMP00290,Employee_290,IT,Probation,2023-10-17,784,Emergency,2025-12-22,2026-01-03,13,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00291,Employee_291,HR,Permanent,2023-09-26,805,Casual,2026-01-05,2026-01-12,8,Attending family wedding ceremony and related functions,Personal,0
+EMP00292,Employee_292,Operations,Probation,2023-07-24,869,Emergency,2025-12-17,2025-12-24,8,Death in the family and need to attend funeral arrangements,Emergency,0
+EMP00293,Employee_293,Operations,Permanent,2025-04-21,232,Sick,2025-12-29,2026-01-11,14,I am suffering from high fever and need to visit the doctor for checkup,Medical,1
+EMP00294,Employee_294,Marketing,Permanent,2025-07-24,138,Sick,2025-12-11,2025-12-30,20,I am suffering from high fever and need to visit the doctor for checkup,Medical,0
+EMP00295,Employee_295,Marketing,Contract,2025-09-09,91,Emergency,2025-12-17,2025-12-31,15,Family emergency due to sudden hospitalization of parent requiring immediate attention,Emergency,0
+EMP00296,Employee_296,Finance,Contract,2024-04-25,593,Casual,2025-12-20,2026-01-07,19,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00297,Employee_297,Sales,Permanent,2024-03-30,619,Casual,2025-12-17,2026-01-02,17,Planning to attend professional certification exam,Other,0
+EMP00298,Employee_298,Operations,Permanent,2024-12-15,359,Emergency,2025-12-25,2026-01-11,18,Home renovation work supervision requiring presence,Personal,0
+EMP00299,Employee_299,IT,Contract,2024-02-25,653,Emergency,2025-12-14,2025-12-27,14,Death in the family and need to attend funeral arrangements,Emergency,0
+EMP00300,Employee_300,Admin,Permanent,2024-09-03,462,Earned,2026-01-04,2026-01-08,5,I am suffering from high fever and need to visit the doctor for checkup,Medical,1
+EMP00301,Employee_301,IT,Probation,2022-12-19,1086,Casual,2025-12-17,2025-12-29,13,Need time to complete pending personal documentation work,Other,0
+EMP00302,Employee_302,Sales,Contract,2025-06-30,162,Emergency,2025-12-12,2025-12-23,12,Child met with an accident and needs immediate care,Emergency,0
+EMP00303,Employee_303,Engineering,Probation,2023-10-28,773,Sick,2025-12-16,2025-12-18,3,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00304,Employee_304,Marketing,Probation,2024-10-07,428,Earned,2026-01-08,2026-01-17,10,Planned family vacation to spend quality time together,Personal,0
+EMP00305,Employee_305,Marketing,Contract,2025-04-12,241,Emergency,2026-01-01,2026-01-08,8,Child met with an accident and needs immediate care,Emergency,0
+EMP00306,Employee_306,IT,Permanent,2024-02-19,659,Earned,2025-12-24,2026-01-05,13,Personal reasons requiring few days of absence,Other,0
+EMP00307,Employee_307,Operations,Probation,2023-12-03,737,Emergency,2025-12-13,2025-12-27,15,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00308,Employee_308,Sales,Permanent,2023-11-10,760,Earned,2025-12-11,2025-12-24,14,Need time to complete pending personal documentation work,Other,0
+EMP00309,Employee_309,Finance,Permanent,2024-06-22,535,Emergency,2025-12-14,2025-12-23,10,Child met with an accident and needs immediate care,Emergency,1
+EMP00310,Employee_310,IT,Contract,2024-07-23,504,Emergency,2025-12-30,2026-01-16,18,Unexpected family crisis requiring immediate travel back home,Emergency,0
+EMP00311,Employee_311,Operations,Probation,2023-03-10,1005,Emergency,2026-01-02,2026-01-07,6,Death in the family and need to attend funeral arrangements,Emergency,0
+EMP00312,Employee_312,Finance,Contract,2023-03-14,1001,Casual,2025-12-30,2026-01-16,18,Personal commitment to attend cousin's marriage ceremony,Personal,0
+EMP00313,Employee_313,Engineering,Permanent,2025-08-31,100,Sick,2025-12-14,2025-12-27,14,Need to undergo surgery and recovery time at home,Medical,1
+EMP00314,Employee_314,HR,Contract,2025-02-02,310,Sick,2025-12-26,2026-01-01,7,I am suffering from high fever and need to visit the doctor for checkup,Medical,0
+EMP00315,Employee_315,Admin,Contract,2023-03-15,1000,Sick,2025-12-27,2025-12-27,1,I am suffering from high fever and need to visit the doctor for checkup,Medical,1
+EMP00316,Employee_316,Engineering,Contract,2024-05-25,563,Earned,2025-12-26,2025-12-26,1,Need to handle some important personal matters,Other,1
+EMP00317,Employee_317,Finance,Permanent,2025-05-25,198,Casual,2025-12-16,2025-12-23,8,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00318,Employee_318,Operations,Probation,2024-06-09,548,Emergency,2025-12-21,2025-12-23,3,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00319,Employee_319,Marketing,Contract,2024-09-02,463,Earned,2025-12-30,2026-01-01,3,Need some days off for personal work and errands,Other,1
+EMP00320,Employee_320,HR,Probation,2023-10-24,777,Emergency,2025-12-25,2026-01-11,18,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00321,Employee_321,HR,Probation,2023-07-04,889,Earned,2026-01-06,2026-01-24,19,Personal commitment to attend cousin's marriage ceremony,Personal,0
+EMP00322,Employee_322,Engineering,Permanent,2024-10-02,433,Emergency,2025-12-11,2025-12-19,9,Critical emergency involving elderly family member hospitalization,Emergency,1
+EMP00323,Employee_323,Engineering,Permanent,2024-03-04,645,Sick,2025-12-28,2026-01-03,7,Taking break for mental health and stress relief,Other,1
+EMP00324,Employee_324,Operations,Permanent,2024-08-03,493,Emergency,2025-12-20,2026-01-06,18,Death in the family and need to attend funeral arrangements,Emergency,0
+EMP00325,Employee_325,HR,Contract,2023-12-31,709,Sick,2025-12-23,2025-12-26,4,I have a medical appointment scheduled at the hospital for health issues,Medical,1
+EMP00326,Employee_326,Sales,Contract,2023-09-18,813,Earned,2025-12-30,2025-12-30,1,Chronic back pain has worsened and need physiotherapy sessions,Medical,1
+EMP00327,Employee_327,Admin,Permanent,2023-12-11,729,Emergency,2025-12-15,2025-12-28,14,Close relative in critical condition at emergency room,Emergency,1
+EMP00328,Employee_328,HR,Contract,2024-04-13,605,Casual,2025-12-12,2025-12-14,3,Want to pursue personal hobby project during time off,Other,1
+EMP00329,Employee_329,IT,Contract,2025-01-27,316,Emergency,2025-12-21,2025-12-31,11,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00330,Employee_330,Admin,Probation,2024-06-04,553,Sick,2025-12-12,2025-12-16,5,Want to spend time on personal development activities,Other,0
+EMP00331,Employee_331,IT,Permanent,2025-10-16,54,Sick,2025-12-27,2026-01-07,12,Need to handle some important personal matters,Other,0
+EMP00332,Employee_332,Engineering,Probation,2023-08-14,848,Emergency,2026-01-02,2026-01-04,3,Child met with an accident and needs immediate care,Emergency,0
+EMP00333,Employee_333,Finance,Contract,2023-10-21,780,Casual,2025-12-18,2025-12-22,5,Planning to attend professional certification exam,Other,0
+EMP00334,Employee_334,Admin,Permanent,2025-08-01,130,Casual,2025-12-18,2025-12-31,14,Planning to attend professional certification exam,Other,0
+EMP00335,Employee_335,Admin,Permanent,2023-11-30,740,Earned,2026-01-02,2026-01-09,8,Taking time off for self-care and rejuvenation,Other,1
+EMP00336,Employee_336,Marketing,Probation,2025-05-03,220,Casual,2025-12-10,2025-12-19,10,Personal reasons requiring few days of absence,Other,0
+EMP00337,Employee_337,IT,Probation,2023-06-21,902,Earned,2026-01-05,2026-01-18,14,Need break from work for personal well-being,Other,0
+EMP00338,Employee_338,Finance,Probation,2024-02-21,657,Casual,2025-12-20,2026-01-04,16,Attending important family function out of town,Personal,0
+EMP00339,Employee_339,Sales,Probation,2023-03-09,1006,Casual,2025-12-22,2026-01-01,11,Need to handle some important personal matters,Other,0
+EMP00340,Employee_340,Sales,Permanent,2024-10-25,410,Casual,2025-12-10,2025-12-27,18,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00341,Employee_341,Marketing,Probation,2024-04-21,597,Sick,2025-12-31,2026-01-13,14,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00342,Employee_342,Marketing,Probation,2025-01-27,316,Emergency,2025-12-12,2025-12-24,13,Urgent legal matter requiring immediate personal presence,Emergency,0
+EMP00343,Employee_343,Admin,Contract,2023-09-10,821,Emergency,2025-12-11,2025-12-28,18,Unexpected family crisis requiring immediate travel back home,Emergency,0
+EMP00344,Employee_344,HR,Permanent,2024-07-18,509,Earned,2025-12-30,2026-01-04,6,Need some days off for personal work and errands,Other,1
+EMP00345,Employee_345,IT,Probation,2023-07-11,882,Sick,2025-12-13,2025-12-13,1,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,1
+EMP00346,Employee_346,Marketing,Probation,2023-11-03,767,Emergency,2026-01-03,2026-01-17,15,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00347,Employee_347,Finance,Probation,2025-10-19,51,Emergency,2025-12-19,2025-12-22,4,Urgent situation at home needs immediate presence and resolution,Emergency,0
+EMP00348,Employee_348,HR,Contract,2025-02-21,291,Earned,2025-12-20,2025-12-29,10,Need to undergo surgery and recovery time at home,Medical,0
+EMP00349,Employee_349,Admin,Probation,2023-04-08,976,Sick,2026-01-02,2026-01-16,15,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00350,Employee_350,HR,Probation,2025-09-08,92,Sick,2026-01-06,2026-01-06,1,I have a medical appointment scheduled at the hospital for health issues,Medical,1
+EMP00351,Employee_351,Finance,Contract,2024-07-27,500,Casual,2025-12-15,2026-01-01,18,Want to spend time on personal development activities,Other,0
+EMP00352,Employee_352,IT,Probation,2024-08-21,475,Emergency,2025-12-15,2025-12-20,6,Close relative in critical condition at emergency room,Emergency,0
+EMP00353,Employee_353,IT,Permanent,2024-10-30,405,Emergency,2025-12-23,2026-01-10,19,Child met with an accident and needs immediate care,Emergency,0
+EMP00354,Employee_354,Marketing,Probation,2025-08-02,129,Sick,2025-12-15,2026-01-01,18,Need to undergo surgery and recovery time at home,Medical,0
+EMP00355,Employee_355,Admin,Permanent,2024-06-19,538,Emergency,2025-12-30,2026-01-15,17,Close relative in critical condition at emergency room,Emergency,0
+EMP00356,Employee_356,IT,Contract,2025-04-19,234,Earned,2026-01-06,2026-01-17,12,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00357,Employee_357,Finance,Contract,2024-04-08,610,Sick,2025-12-20,2025-12-24,5,Taking break for mental health and stress relief,Other,0
+EMP00358,Employee_358,Finance,Contract,2023-10-05,796,Emergency,2025-12-14,2026-01-02,20,Close relative in critical condition at emergency room,Emergency,0
+EMP00359,Employee_359,Finance,Probation,2024-12-19,355,Casual,2025-12-19,2026-01-03,16,Moving to new house and need time for relocation activities,Personal,0
+EMP00360,Employee_360,Sales,Probation,2025-08-21,110,Earned,2025-12-25,2025-12-25,1,Planned family vacation to spend quality time together,Personal,0
+EMP00361,Employee_361,IT,Contract,2023-02-07,1036,Emergency,2025-12-31,2026-01-13,14,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00362,Employee_362,Admin,Permanent,2025-06-22,170,Sick,2025-12-19,2025-12-26,8,Personal commitment to attend cousin's marriage ceremony,Personal,0
+EMP00363,Employee_363,Admin,Contract,2023-02-28,1015,Sick,2025-12-13,2025-12-31,19,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00364,Employee_364,Sales,Contract,2025-09-14,86,Emergency,2025-12-16,2026-01-02,18,Urgent situation at home needs immediate presence and resolution,Emergency,0
+EMP00365,Employee_365,Marketing,Probation,2025-10-03,67,Emergency,2025-12-21,2025-12-29,9,Urgent situation at home needs immediate presence and resolution,Emergency,0
+EMP00366,Employee_366,Admin,Permanent,2024-08-10,486,Casual,2026-01-01,2026-01-19,19,Need break from work for personal well-being,Other,0
+EMP00367,Employee_367,IT,Permanent,2025-02-26,286,Casual,2026-01-04,2026-01-10,7,Cultural event participation with family members,Personal,0
+EMP00368,Employee_368,Sales,Contract,2024-05-12,576,Casual,2026-01-01,2026-01-11,11,Planning to attend professional certification exam,Other,0
+EMP00369,Employee_369,Operations,Contract,2025-05-27,196,Casual,2026-01-08,2026-01-21,14,Religious festival celebration with family gathering,Personal,0
+EMP00370,Employee_370,Finance,Contract,2025-03-12,272,Casual,2026-01-01,2026-01-05,5,Need time to complete pending personal documentation work,Other,0
+EMP00371,Employee_371,IT,Probation,2025-02-20,292,Earned,2025-12-22,2026-01-04,14,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00372,Employee_372,HR,Probation,2023-01-18,1056,Earned,2025-12-24,2026-01-04,12,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00373,Employee_373,Engineering,Contract,2025-06-01,191,Emergency,2026-01-06,2026-01-17,12,Planned family vacation to spend quality time together,Personal,0
+EMP00374,Employee_374,IT,Permanent,2023-03-01,1014,Earned,2026-01-05,2026-01-15,11,Diagnosed with infection and need time for medication and treatment,Medical,1
+EMP00375,Employee_375,Finance,Contract,2023-03-21,994,Earned,2025-12-11,2025-12-12,2,Home renovation work supervision requiring presence,Personal,1
+EMP00376,Employee_376,Admin,Permanent,2025-03-29,255,Casual,2025-12-24,2026-01-07,15,Attending important family function out of town,Personal,0
+EMP00377,Employee_377,Marketing,Contract,2025-03-13,271,Earned,2026-01-06,2026-01-11,6,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00378,Employee_378,Sales,Probation,2025-06-23,169,Earned,2025-12-11,2025-12-16,6,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00379,Employee_379,Marketing,Probation,2025-06-05,187,Sick,2025-12-16,2025-12-16,1,Experiencing severe headache and stomach pain requiring medical attention,Medical,1
+EMP00380,Employee_380,Marketing,Contract,2023-06-11,912,Sick,2026-01-01,2026-01-01,1,I have a medical appointment scheduled at the hospital for health issues,Medical,1
+EMP00381,Employee_381,IT,Contract,2025-03-13,271,Emergency,2025-12-17,2025-12-19,3,Urgent situation at home needs immediate presence and resolution,Emergency,1
+EMP00382,Employee_382,HR,Probation,2023-11-17,753,Earned,2025-12-22,2025-12-26,5,Home renovation work supervision requiring presence,Personal,0
+EMP00383,Employee_383,Finance,Permanent,2022-12-18,1087,Sick,2025-12-30,2026-01-18,20,Need time to complete pending personal documentation work,Other,0
+EMP00384,Employee_384,Finance,Probation,2023-06-16,907,Casual,2026-01-07,2026-01-09,3,Moving to new house and need time for relocation activities,Personal,0
+EMP00385,Employee_385,HR,Contract,2023-10-14,787,Earned,2025-12-20,2026-01-02,14,Planned family vacation to spend quality time together,Personal,0
+EMP00386,Employee_386,Operations,Contract,2025-06-19,173,Casual,2025-12-29,2026-01-15,18,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00387,Employee_387,Operations,Contract,2025-10-15,55,Earned,2025-12-26,2026-01-01,7,Want to spend time on personal development activities,Other,0
+EMP00388,Employee_388,Marketing,Contract,2023-09-28,803,Earned,2026-01-04,2026-01-05,2,Parent's birthday celebration and family get together,Personal,1
+EMP00389,Employee_389,IT,Permanent,2024-08-02,494,Emergency,2025-12-12,2025-12-31,20,Family emergency due to sudden hospitalization of parent requiring immediate attention,Emergency,0
+EMP00390,Employee_390,Sales,Probation,2025-03-13,271,Emergency,2025-12-23,2026-01-10,19,Death in the family and need to attend funeral arrangements,Emergency,0
+EMP00391,Employee_391,Admin,Permanent,2025-11-04,35,Sick,2025-12-18,2025-12-18,1,I am suffering from high fever and need to visit the doctor for checkup,Medical,1
+EMP00392,Employee_392,IT,Contract,2024-05-01,587,Emergency,2026-01-01,2026-01-14,14,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00393,Employee_393,Finance,Probation,2025-06-20,172,Earned,2025-12-26,2025-12-28,3,Moving to new house and need time for relocation activities,Personal,0
+EMP00394,Employee_394,Sales,Probation,2025-07-26,136,Earned,2026-01-02,2026-01-15,14,Attending family wedding ceremony and related functions,Personal,0
+EMP00395,Employee_395,Marketing,Permanent,2023-07-03,890,Sick,2025-12-29,2026-01-12,15,Having flu symptoms and doctor advised rest for few days,Medical,1
+EMP00396,Employee_396,Finance,Permanent,2025-11-13,26,Casual,2025-12-15,2025-12-15,1,Personal reasons requiring few days of absence,Other,0
+EMP00397,Employee_397,Operations,Permanent,2023-11-08,762,Casual,2026-01-02,2026-01-10,9,Attending family wedding ceremony and related functions,Personal,0
+EMP00398,Employee_398,Sales,Probation,2024-05-30,558,Sick,2026-01-01,2026-01-09,9,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00399,Employee_399,Admin,Probation,2023-01-27,1047,Earned,2025-12-25,2025-12-26,2,Want to pursue personal hobby project during time off,Other,1
+EMP00400,Employee_400,Sales,Permanent,2024-07-04,523,Sick,2025-12-31,2026-01-18,19,Need to undergo surgery and recovery time at home,Medical,0
+EMP00401,Employee_401,Engineering,Permanent,2025-11-13,26,Casual,2025-12-25,2025-12-26,2,Need to handle some important personal matters,Other,0
+EMP00402,Employee_402,Finance,Permanent,2025-09-27,73,Emergency,2025-12-20,2025-12-27,8,Unexpected family crisis requiring immediate travel back home,Emergency,1
+EMP00403,Employee_403,Operations,Permanent,2023-11-06,764,Sick,2025-12-31,2026-01-16,17,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00404,Employee_404,Marketing,Contract,2025-09-05,95,Emergency,2026-01-07,2026-01-09,3,Critical emergency involving elderly family member hospitalization,Emergency,1
+EMP00405,Employee_405,Operations,Probation,2025-06-15,177,Emergency,2025-12-21,2025-12-21,1,Urgent legal matter requiring immediate personal presence,Emergency,1
+EMP00406,Employee_406,Operations,Contract,2024-07-30,497,Emergency,2025-12-28,2026-01-08,12,Child met with an accident and needs immediate care,Emergency,0
+EMP00407,Employee_407,Marketing,Permanent,2025-11-25,14,Emergency,2025-12-17,2025-12-17,1,Family emergency due to sudden hospitalization of parent requiring immediate attention,Emergency,0
+EMP00408,Employee_408,Sales,Permanent,2023-10-30,771,Earned,2025-12-16,2025-12-19,4,Need time to complete pending personal documentation work,Other,1
+EMP00409,Employee_409,IT,Probation,2025-08-08,123,Casual,2025-12-12,2025-12-20,9,Planned family vacation to spend quality time together,Personal,0
+EMP00410,Employee_410,IT,Contract,2023-11-07,763,Emergency,2025-12-28,2025-12-30,3,Dental emergency requiring immediate clinic visit and recovery,Medical,1
+EMP00411,Employee_411,HR,Contract,2025-08-03,128,Emergency,2025-12-17,2025-12-21,5,Unexpected family crisis requiring immediate travel back home,Emergency,1
+EMP00412,Employee_412,IT,Contract,2024-02-09,669,Earned,2025-12-18,2026-01-01,15,Child's school annual day function and parent participation required,Personal,0
+EMP00413,Employee_413,Marketing,Permanent,2025-04-29,224,Casual,2025-12-15,2025-12-18,4,Taking time off for self-care and rejuvenation,Other,0
+EMP00414,Employee_414,Sales,Probation,2025-04-05,248,Earned,2025-12-24,2025-12-30,7,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00415,Employee_415,Operations,Permanent,2025-06-06,186,Casual,2026-01-05,2026-01-14,10,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00416,Employee_416,Engineering,Permanent,2024-02-06,672,Casual,2026-01-01,2026-01-03,3,Anniversary celebration with spouse at planned destination,Personal,1
+EMP00417,Employee_417,IT,Contract,2025-08-30,101,Earned,2026-01-05,2026-01-13,9,Attending family wedding ceremony and related functions,Personal,0
+EMP00418,Employee_418,IT,Probation,2024-07-15,512,Sick,2025-12-13,2025-12-27,15,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00419,Employee_419,HR,Permanent,2025-08-04,127,Casual,2025-12-16,2025-12-20,5,Personal reasons requiring few days of absence,Other,0
+EMP00420,Employee_420,HR,Contract,2024-06-26,531,Sick,2025-12-12,2025-12-12,1,Want to pursue personal hobby project during time off,Other,1
+EMP00421,Employee_421,HR,Probation,2025-04-02,251,Sick,2025-12-11,2025-12-25,15,Need to handle some important personal matters,Other,0
+EMP00422,Employee_422,Admin,Permanent,2023-10-17,784,Emergency,2025-12-21,2025-12-26,6,Death in the family and need to attend funeral arrangements,Emergency,1
+EMP00423,Employee_423,Operations,Probation,2023-06-09,914,Casual,2025-12-29,2025-12-30,2,Dealing with severe migraine attacks requiring rest and medication,Medical,1
+EMP00424,Employee_424,Marketing,Contract,2024-04-13,605,Emergency,2026-01-07,2026-01-20,14,Family emergency due to sudden hospitalization of parent requiring immediate attention,Emergency,0
+EMP00425,Employee_425,HR,Probation,2023-10-16,785,Casual,2025-12-16,2025-12-29,14,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00426,Employee_426,Marketing,Contract,2025-10-30,40,Emergency,2025-12-25,2026-01-05,12,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00427,Employee_427,Sales,Contract,2023-02-14,1029,Earned,2025-12-18,2025-12-30,13,Attending family wedding ceremony and related functions,Personal,0
+EMP00428,Employee_428,Sales,Contract,2024-09-16,449,Sick,2025-12-11,2025-12-19,9,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00429,Employee_429,Sales,Contract,2024-08-19,477,Casual,2025-12-17,2025-12-20,4,Need to undergo surgery and recovery time at home,Medical,0
+EMP00430,Employee_430,Operations,Contract,2025-08-16,115,Casual,2026-01-06,2026-01-24,19,Personal reasons requiring few days of absence,Other,0
+EMP00431,Employee_431,Finance,Permanent,2024-08-11,485,Earned,2026-01-08,2026-01-19,12,Need some days off for personal work and errands,Other,0
+EMP00432,Employee_432,Sales,Contract,2025-02-20,292,Casual,2025-12-27,2026-01-11,16,Want to pursue personal hobby project during time off,Other,0
+EMP00433,Employee_433,Admin,Permanent,2025-06-07,185,Sick,2025-12-29,2026-01-05,8,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,1
+EMP00434,Employee_434,Admin,Permanent,2024-01-29,680,Casual,2025-12-20,2025-12-24,5,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00435,Employee_435,Sales,Permanent,2025-10-25,45,Casual,2026-01-01,2026-01-19,19,Child's school annual day function and parent participation required,Personal,0
+EMP00436,Employee_436,Sales,Permanent,2023-11-04,766,Emergency,2025-12-13,2025-12-31,19,Unexpected family crisis requiring immediate travel back home,Emergency,0
+EMP00437,Employee_437,Finance,Permanent,2023-06-28,895,Emergency,2025-12-15,2025-12-25,11,Sudden family bereavement and funeral ceremony attendance,Emergency,1
+EMP00438,Employee_438,Sales,Permanent,2024-12-14,360,Emergency,2026-01-02,2026-01-11,10,Death in the family and need to attend funeral arrangements,Emergency,1
+EMP00439,Employee_439,Finance,Contract,2025-12-05,4,Emergency,2025-12-11,2025-12-29,19,Unexpected family crisis requiring immediate travel back home,Emergency,0
+EMP00440,Employee_440,Marketing,Contract,2025-05-09,214,Emergency,2025-12-20,2025-12-24,5,Child met with an accident and needs immediate care,Emergency,1
+EMP00441,Employee_441,Sales,Probation,2024-12-30,344,Sick,2025-12-24,2026-01-03,11,Planned family vacation to spend quality time together,Personal,0
+EMP00442,Employee_442,HR,Probation,2024-07-01,526,Sick,2025-12-11,2025-12-11,1,Dental emergency requiring immediate clinic visit and recovery,Medical,1
+EMP00443,Employee_443,Finance,Probation,2023-03-05,1010,Emergency,2025-12-27,2026-01-07,12,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00444,Employee_444,Marketing,Permanent,2023-05-29,925,Sick,2025-12-19,2025-12-20,2,Taking break for mental health and stress relief,Other,1
+EMP00445,Employee_445,HR,Probation,2024-12-25,349,Emergency,2026-01-02,2026-01-07,6,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00446,Employee_446,Admin,Contract,2025-10-06,64,Emergency,2025-12-29,2026-01-03,6,Death in the family and need to attend funeral arrangements,Emergency,0
+EMP00447,Employee_447,Engineering,Permanent,2024-01-30,679,Casual,2025-12-23,2025-12-29,7,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00448,Employee_448,Operations,Contract,2024-05-11,577,Earned,2025-12-13,2025-12-20,8,Attending important family function out of town,Personal,0
+EMP00449,Employee_449,Admin,Permanent,2025-08-19,112,Earned,2025-12-23,2025-12-23,1,Religious festival celebration with family gathering,Personal,0
+EMP00450,Employee_450,Admin,Permanent,2025-05-24,199,Sick,2025-12-15,2025-12-21,7,I have a medical appointment scheduled at the hospital for health issues,Medical,1
+EMP00451,Employee_451,Admin,Permanent,2024-03-17,632,Emergency,2025-12-25,2026-01-09,16,Critical emergency involving elderly family member hospitalization,Emergency,0
+EMP00452,Employee_452,HR,Contract,2023-10-07,794,Casual,2026-01-07,2026-01-18,12,Personal reasons requiring few days of absence,Other,0
+EMP00453,Employee_453,Finance,Probation,2025-09-08,92,Earned,2025-12-24,2026-01-07,15,Need to undergo surgery and recovery time at home,Medical,0
+EMP00454,Employee_454,Operations,Contract,2025-08-04,127,Casual,2025-12-12,2025-12-15,4,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00455,Employee_455,IT,Contract,2024-08-30,466,Sick,2026-01-05,2026-01-17,13,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00456,Employee_456,Admin,Contract,2024-08-13,483,Emergency,2025-12-12,2025-12-21,10,Family emergency due to sudden hospitalization of parent requiring immediate attention,Emergency,0
+EMP00457,Employee_457,Finance,Permanent,2023-06-03,920,Casual,2025-12-16,2025-12-21,6,Moving to new house and need time for relocation activities,Personal,0
+EMP00458,Employee_458,Engineering,Probation,2025-07-01,161,Emergency,2026-01-05,2026-01-11,7,Urgent legal matter requiring immediate personal presence,Emergency,0
+EMP00459,Employee_459,Operations,Probation,2025-07-24,138,Sick,2025-12-27,2026-01-08,13,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00460,Employee_460,Operations,Contract,2023-05-15,939,Sick,2025-12-28,2026-01-16,20,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00461,Employee_461,HR,Probation,2025-02-05,307,Casual,2025-12-28,2026-01-15,19,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00462,Employee_462,HR,Contract,2025-05-16,207,Earned,2026-01-07,2026-01-24,18,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00463,Employee_463,Operations,Probation,2023-03-20,995,Emergency,2025-12-15,2025-12-16,2,Death in the family and need to attend funeral arrangements,Emergency,1
+EMP00464,Employee_464,IT,Permanent,2023-09-20,811,Earned,2025-12-11,2025-12-18,8,Taking time off for self-care and rejuvenation,Other,1
+EMP00465,Employee_465,Sales,Permanent,2024-01-17,692,Earned,2025-12-18,2025-12-27,10,I have a medical appointment scheduled at the hospital for health issues,Medical,1
+EMP00466,Employee_466,Marketing,Permanent,2024-04-02,616,Emergency,2025-12-18,2025-12-28,11,Urgent legal matter requiring immediate personal presence,Emergency,1
+EMP00467,Employee_467,HR,Permanent,2023-06-18,905,Casual,2026-01-02,2026-01-15,14,Want to spend time on personal development activities,Other,0
+EMP00468,Employee_468,Sales,Permanent,2023-01-18,1056,Casual,2025-12-19,2025-12-21,3,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,1
+EMP00469,Employee_469,IT,Permanent,2022-12-31,1074,Sick,2025-12-16,2025-12-21,6,Need to undergo surgery and recovery time at home,Medical,1
+EMP00470,Employee_470,Engineering,Permanent,2025-10-02,68,Emergency,2026-01-08,2026-01-09,2,Child met with an accident and needs immediate care,Emergency,1
+EMP00471,Employee_471,Operations,Probation,2023-05-03,951,Emergency,2025-12-31,2026-01-03,4,Parent's birthday celebration and family get together,Personal,0
+EMP00472,Employee_472,Admin,Permanent,2023-04-12,972,Earned,2025-12-15,2025-12-26,12,I have a medical appointment scheduled at the hospital for health issues,Medical,1
+EMP00473,Employee_473,Operations,Permanent,2023-10-09,792,Sick,2026-01-06,2026-01-11,6,Need to undergo surgery and recovery time at home,Medical,1
+EMP00474,Employee_474,Marketing,Contract,2024-09-03,462,Casual,2025-12-30,2026-01-07,9,Want to spend time on personal development activities,Other,0
+EMP00475,Employee_475,Engineering,Contract,2025-11-20,19,Emergency,2025-12-30,2026-01-03,5,Family emergency due to sudden hospitalization of parent requiring immediate attention,Emergency,0
+EMP00476,Employee_476,Marketing,Probation,2024-03-23,626,Earned,2026-01-07,2026-01-20,14,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00477,Employee_477,Admin,Probation,2024-09-18,447,Emergency,2025-12-31,2026-01-09,10,Urgent legal matter requiring immediate personal presence,Emergency,0
+EMP00478,Employee_478,IT,Contract,2025-05-13,210,Sick,2025-12-31,2026-01-16,17,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00479,Employee_479,Operations,Probation,2025-05-01,222,Emergency,2025-12-20,2025-12-22,3,Unexpected family crisis requiring immediate travel back home,Emergency,0
+EMP00480,Employee_480,Operations,Probation,2024-04-06,612,Casual,2025-12-26,2025-12-30,5,Attending family wedding ceremony and related functions,Personal,0
+EMP00481,Employee_481,IT,Contract,2024-02-23,655,Casual,2025-12-30,2025-12-30,1,Planning to attend professional certification exam,Other,1
+EMP00482,Employee_482,Operations,Probation,2023-09-02,829,Emergency,2025-12-28,2025-12-29,2,Urgent legal matter requiring immediate personal presence,Emergency,1
+EMP00483,Employee_483,Marketing,Probation,2024-09-09,456,Emergency,2025-12-26,2026-01-06,12,Death in the family and need to attend funeral arrangements,Emergency,0
+EMP00484,Employee_484,Finance,Probation,2025-05-23,200,Emergency,2026-01-02,2026-01-06,5,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00485,Employee_485,Finance,Contract,2024-01-21,688,Sick,2025-12-21,2025-12-28,8,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00486,Employee_486,IT,Probation,2023-11-08,762,Earned,2025-12-19,2026-01-06,19,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00487,Employee_487,Admin,Permanent,2025-07-16,146,Emergency,2025-12-26,2026-01-01,7,Personal commitment to attend cousin's marriage ceremony,Personal,0
+EMP00488,Employee_488,Engineering,Permanent,2025-03-02,282,Casual,2025-12-23,2026-01-02,11,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00489,Employee_489,Finance,Probation,2024-12-04,370,Sick,2025-12-20,2026-01-04,16,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00490,Employee_490,Sales,Contract,2025-08-12,119,Sick,2025-12-18,2026-01-01,15,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00491,Employee_491,Finance,Probation,2025-06-11,181,Casual,2025-12-23,2026-01-11,20,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00492,Employee_492,IT,Probation,2023-04-06,978,Emergency,2025-12-11,2025-12-11,1,Unexpected family crisis requiring immediate travel back home,Emergency,1
+EMP00493,Employee_493,Engineering,Probation,2022-12-17,1088,Casual,2025-12-31,2025-12-31,1,Home renovation work supervision requiring presence,Personal,1
+EMP00494,Employee_494,Marketing,Permanent,2024-01-03,706,Earned,2025-12-13,2025-12-17,5,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,1
+EMP00495,Employee_495,Operations,Permanent,2025-07-28,134,Sick,2025-12-19,2025-12-28,10,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,1
+EMP00496,Employee_496,Sales,Probation,2025-03-09,275,Earned,2025-12-21,2026-01-05,16,Moving to new house and need time for relocation activities,Personal,0
+EMP00497,Employee_497,IT,Permanent,2024-08-28,468,Casual,2025-12-16,2025-12-20,5,I am suffering from high fever and need to visit the doctor for checkup,Medical,0
+EMP00498,Employee_498,Finance,Permanent,2023-11-19,751,Sick,2026-01-07,2026-01-19,13,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,1
+EMP00499,Employee_499,Engineering,Contract,2025-09-01,99,Sick,2025-12-11,2025-12-11,1,Dental emergency requiring immediate clinic visit and recovery,Medical,1
+EMP00500,Employee_500,Admin,Probation,2025-03-30,254,Earned,2026-01-01,2026-01-16,16,Planned family vacation to spend quality time together,Personal,0
+EMP00501,Employee_501,Engineering,Probation,2023-07-31,862,Sick,2025-12-18,2026-01-03,17,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00502,Employee_502,IT,Permanent,2023-01-26,1048,Sick,2025-12-13,2025-12-22,10,Chronic back pain has worsened and need physiotherapy sessions,Medical,1
+EMP00503,Employee_503,Marketing,Contract,2024-10-25,410,Earned,2025-12-16,2026-01-01,17,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00504,Employee_504,Operations,Permanent,2025-09-19,81,Emergency,2026-01-01,2026-01-07,7,Unexpected family crisis requiring immediate travel back home,Emergency,1
+EMP00505,Employee_505,Marketing,Permanent,2025-11-12,27,Sick,2026-01-05,2026-01-08,4,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00506,Employee_506,Finance,Permanent,2023-01-26,1048,Sick,2026-01-07,2026-01-10,4,Need to undergo surgery and recovery time at home,Medical,1
+EMP00507,Employee_507,Admin,Probation,2024-06-16,541,Emergency,2025-12-13,2025-12-14,2,Family emergency due to sudden hospitalization of parent requiring immediate attention,Emergency,1
+EMP00508,Employee_508,Operations,Probation,2024-03-08,641,Emergency,2025-12-13,2025-12-16,4,Family emergency due to sudden hospitalization of parent requiring immediate attention,Emergency,0
+EMP00509,Employee_509,Engineering,Permanent,2024-12-24,350,Earned,2026-01-07,2026-01-18,12,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00510,Employee_510,HR,Probation,2024-01-07,702,Casual,2025-12-22,2025-12-25,4,Taking time off for self-care and rejuvenation,Other,0
+EMP00511,Employee_511,Operations,Probation,2023-04-04,980,Emergency,2025-12-13,2025-12-18,6,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00512,Employee_512,HR,Probation,2023-03-26,989,Emergency,2025-12-29,2026-01-03,6,Unexpected family crisis requiring immediate travel back home,Emergency,0
+EMP00513,Employee_513,Engineering,Contract,2025-03-16,268,Emergency,2025-12-13,2025-12-28,16,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00514,Employee_514,Engineering,Permanent,2024-06-21,536,Earned,2026-01-01,2026-01-01,1,Want to spend time on personal development activities,Other,1
+EMP00515,Employee_515,Marketing,Contract,2024-01-16,693,Sick,2025-12-31,2026-01-13,14,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00516,Employee_516,Sales,Contract,2023-10-12,789,Casual,2026-01-07,2026-01-24,18,I am suffering from high fever and need to visit the doctor for checkup,Medical,0
+EMP00517,Employee_517,Engineering,Contract,2025-01-21,322,Emergency,2026-01-06,2026-01-21,16,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00518,Employee_518,Sales,Permanent,2024-01-31,678,Earned,2025-12-26,2025-12-27,2,Personal commitment to attend cousin's marriage ceremony,Personal,1
+EMP00519,Employee_519,IT,Probation,2024-08-14,482,Sick,2025-12-24,2026-01-07,15,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00520,Employee_520,HR,Probation,2023-06-07,916,Earned,2025-12-25,2025-12-28,4,Need some days off for personal work and errands,Other,0
+EMP00521,Employee_521,HR,Probation,2023-08-17,845,Sick,2025-12-27,2026-01-13,18,Cultural event participation with family members,Personal,0
+EMP00522,Employee_522,Operations,Contract,2024-10-11,424,Emergency,2025-12-21,2025-12-31,11,Child met with an accident and needs immediate care,Emergency,0
+EMP00523,Employee_523,Admin,Probation,2023-04-15,969,Earned,2025-12-13,2025-12-27,15,Home renovation work supervision requiring presence,Personal,0
+EMP00524,Employee_524,Marketing,Permanent,2024-01-09,700,Earned,2025-12-27,2026-01-05,10,Personal reasons requiring few days of absence,Other,1
+EMP00525,Employee_525,Engineering,Permanent,2023-03-06,1009,Casual,2025-12-13,2025-12-26,14,Need break from work for personal well-being,Other,0
+EMP00526,Employee_526,Marketing,Permanent,2025-04-05,248,Emergency,2025-12-24,2025-12-30,7,Child met with an accident and needs immediate care,Emergency,1
+EMP00527,Employee_527,Sales,Permanent,2023-08-13,849,Sick,2025-12-13,2025-12-31,19,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00528,Employee_528,Admin,Contract,2023-02-10,1033,Casual,2025-12-10,2025-12-25,16,I am suffering from high fever and need to visit the doctor for checkup,Medical,0
+EMP00529,Employee_529,IT,Contract,2023-03-25,990,Casual,2025-12-15,2026-01-02,19,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00530,Employee_530,HR,Probation,2024-02-18,660,Emergency,2025-12-29,2026-01-11,14,Child met with an accident and needs immediate care,Emergency,0
+EMP00531,Employee_531,Operations,Probation,2024-01-06,703,Earned,2026-01-04,2026-01-18,15,Moving to new house and need time for relocation activities,Personal,0
+EMP00532,Employee_532,IT,Contract,2023-01-24,1050,Earned,2026-01-06,2026-01-23,18,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00533,Employee_533,Marketing,Permanent,2024-10-05,430,Earned,2026-01-08,2026-01-19,12,Want to pursue personal hobby project during time off,Other,0
+EMP00534,Employee_534,Finance,Contract,2024-02-17,661,Sick,2025-12-27,2026-01-07,12,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00535,Employee_535,IT,Contract,2022-12-11,1094,Earned,2026-01-04,2026-01-17,14,Personal commitment to attend cousin's marriage ceremony,Personal,0
+EMP00536,Employee_536,HR,Permanent,2023-10-20,781,Casual,2025-12-31,2026-01-01,2,Planned family vacation to spend quality time together,Personal,1
+EMP00537,Employee_537,Operations,Permanent,2024-05-01,587,Earned,2026-01-05,2026-01-09,5,Long planned trip for family reunion and bonding,Personal,1
+EMP00538,Employee_538,Operations,Permanent,2025-10-03,67,Earned,2025-12-13,2025-12-27,15,Want to spend time on personal development activities,Other,0
+EMP00539,Employee_539,Marketing,Contract,2023-10-04,797,Casual,2026-01-04,2026-01-20,17,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00540,Employee_540,Engineering,Probation,2023-10-07,794,Emergency,2025-12-27,2026-01-06,11,Planned family vacation to spend quality time together,Personal,0
+EMP00541,Employee_541,Admin,Permanent,2023-11-16,754,Casual,2025-12-19,2025-12-25,7,Want to pursue personal hobby project during time off,Other,0
+EMP00542,Employee_542,HR,Permanent,2024-12-18,356,Sick,2025-12-11,2025-12-23,13,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,1
+EMP00543,Employee_543,Operations,Permanent,2025-01-13,330,Earned,2025-12-20,2025-12-20,1,Experiencing severe headache and stomach pain requiring medical attention,Medical,1
+EMP00544,Employee_544,Engineering,Permanent,2024-02-17,661,Sick,2026-01-05,2026-01-24,20,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00545,Employee_545,Sales,Permanent,2024-02-27,651,Casual,2025-12-26,2025-12-31,6,Personal commitment to attend cousin's marriage ceremony,Personal,0
+EMP00546,Employee_546,Finance,Probation,2023-09-04,827,Sick,2025-12-17,2025-12-28,12,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00547,Employee_547,Sales,Probation,2024-04-16,602,Casual,2025-12-26,2026-01-14,20,Want to spend time on personal development activities,Other,0
+EMP00548,Employee_548,Engineering,Permanent,2023-12-31,709,Emergency,2026-01-07,2026-01-14,8,Urgent legal matter requiring immediate personal presence,Emergency,1
+EMP00549,Employee_549,Marketing,Permanent,2024-02-20,658,Emergency,2025-12-22,2025-12-25,4,Critical emergency involving elderly family member hospitalization,Emergency,1
+EMP00550,Employee_550,Engineering,Contract,2023-11-02,768,Emergency,2025-12-11,2025-12-26,16,Child met with an accident and needs immediate care,Emergency,0
+EMP00551,Employee_551,Sales,Contract,2025-06-23,169,Sick,2026-01-03,2026-01-08,6,I am suffering from high fever and need to visit the doctor for checkup,Medical,0
+EMP00552,Employee_552,HR,Permanent,2024-09-28,437,Emergency,2025-12-16,2025-12-19,4,Close relative in critical condition at emergency room,Emergency,1
+EMP00553,Employee_553,HR,Contract,2025-01-28,315,Sick,2026-01-01,2026-01-15,15,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00554,Employee_554,HR,Permanent,2024-12-09,365,Earned,2025-12-12,2025-12-29,18,Need time to complete pending personal documentation work,Other,0
+EMP00555,Employee_555,Operations,Probation,2023-10-06,795,Emergency,2025-12-23,2026-01-04,13,Close relative in critical condition at emergency room,Emergency,0
+EMP00556,Employee_556,HR,Contract,2025-11-26,13,Sick,2025-12-11,2025-12-29,19,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00557,Employee_557,Sales,Contract,2025-05-05,218,Earned,2025-12-29,2026-01-07,10,Religious festival celebration with family gathering,Personal,0
+EMP00558,Employee_558,Admin,Probation,2023-09-21,810,Sick,2025-12-15,2025-12-30,16,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00559,Employee_559,IT,Contract,2024-04-13,605,Casual,2025-12-31,2026-01-09,10,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00560,Employee_560,Engineering,Contract,2025-02-22,290,Sick,2025-12-10,2025-12-11,2,Dental emergency requiring immediate clinic visit and recovery,Medical,1
+EMP00561,Employee_561,HR,Probation,2024-10-04,431,Earned,2025-12-23,2025-12-29,7,Want to spend time on personal development activities,Other,0
+EMP00562,Employee_562,Finance,Permanent,2024-11-27,377,Casual,2026-01-05,2026-01-24,20,Need time to complete pending personal documentation work,Other,0
+EMP00563,Employee_563,HR,Permanent,2025-08-19,112,Emergency,2025-12-12,2025-12-29,18,Urgent situation at home needs immediate presence and resolution,Emergency,0
+EMP00564,Employee_564,Operations,Permanent,2024-10-30,405,Emergency,2025-12-21,2025-12-31,11,I have a medical appointment scheduled at the hospital for health issues,Medical,1
+EMP00565,Employee_565,Operations,Contract,2025-07-19,143,Casual,2025-12-25,2026-01-04,11,Personal reasons requiring few days of absence,Other,0
+EMP00566,Employee_566,Operations,Contract,2025-01-30,313,Earned,2025-12-23,2026-01-02,11,Attending family wedding ceremony and related functions,Personal,0
+EMP00567,Employee_567,Sales,Permanent,2024-09-11,454,Emergency,2026-01-05,2026-01-13,9,Unexpected family crisis requiring immediate travel back home,Emergency,1
+EMP00568,Employee_568,Admin,Probation,2023-06-10,913,Earned,2025-12-25,2026-01-03,10,Taking break for mental health and stress relief,Other,0
+EMP00569,Employee_569,Finance,Contract,2025-06-24,168,Earned,2026-01-07,2026-01-11,5,Need time to complete pending personal documentation work,Other,0
+EMP00570,Employee_570,Operations,Contract,2025-07-05,157,Sick,2026-01-06,2026-01-06,1,I am suffering from high fever and need to visit the doctor for checkup,Medical,1
+EMP00571,Employee_571,IT,Contract,2024-09-29,436,Sick,2025-12-18,2026-01-04,18,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00572,Employee_572,Admin,Contract,2025-02-07,305,Earned,2025-12-17,2025-12-29,13,Planning to attend professional certification exam,Other,0
+EMP00573,Employee_573,Finance,Probation,2023-02-16,1027,Sick,2025-12-21,2026-01-02,13,Need to undergo surgery and recovery time at home,Medical,0
+EMP00574,Employee_574,Finance,Contract,2025-02-24,288,Emergency,2025-12-15,2025-12-20,6,Urgent legal matter requiring immediate personal presence,Emergency,0
+EMP00575,Employee_575,Finance,Contract,2023-03-24,991,Earned,2025-12-17,2025-12-18,2,Need to undergo surgery and recovery time at home,Medical,1
+EMP00576,Employee_576,HR,Probation,2023-11-13,757,Casual,2025-12-31,2026-01-01,2,Personal commitment to attend cousin's marriage ceremony,Personal,1
+EMP00577,Employee_577,Sales,Probation,2023-04-22,962,Emergency,2025-12-11,2025-12-12,2,Unexpected family crisis requiring immediate travel back home,Emergency,1
+EMP00578,Employee_578,HR,Contract,2023-01-06,1068,Earned,2025-12-28,2026-01-05,9,Need break from work for personal well-being,Other,0
+EMP00579,Employee_579,Finance,Probation,2023-10-25,776,Earned,2025-12-30,2026-01-17,19,Personal commitment to attend cousin's marriage ceremony,Personal,0
+EMP00580,Employee_580,Operations,Probation,2024-09-08,457,Emergency,2026-01-05,2026-01-16,12,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00581,Employee_581,Admin,Contract,2025-11-25,14,Casual,2025-12-15,2025-12-29,15,Child's school annual day function and parent participation required,Personal,0
+EMP00582,Employee_582,Operations,Permanent,2025-02-04,308,Casual,2025-12-21,2025-12-26,6,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00583,Employee_583,Marketing,Probation,2024-02-01,677,Sick,2025-12-31,2026-01-15,16,Need to undergo surgery and recovery time at home,Medical,0
+EMP00584,Employee_584,Finance,Contract,2023-08-20,842,Sick,2025-12-11,2025-12-18,8,Moving to new house and need time for relocation activities,Personal,0
+EMP00585,Employee_585,Engineering,Contract,2025-02-11,301,Sick,2025-12-18,2025-12-23,6,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00586,Employee_586,IT,Contract,2025-10-31,39,Earned,2025-12-16,2025-12-18,3,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00587,Employee_587,Admin,Probation,2024-12-24,350,Casual,2025-12-29,2026-01-11,14,Cultural event participation with family members,Personal,0
+EMP00588,Employee_588,Finance,Contract,2023-01-27,1047,Earned,2026-01-02,2026-01-07,6,Personal reasons requiring few days of absence,Other,0
+EMP00589,Employee_589,Admin,Contract,2025-07-21,141,Casual,2025-12-22,2026-01-03,13,Child's school annual day function and parent participation required,Personal,0
+EMP00590,Employee_590,Engineering,Permanent,2023-01-03,1071,Emergency,2025-12-29,2026-01-02,5,Cultural event participation with family members,Personal,1
+EMP00591,Employee_591,Engineering,Contract,2023-02-12,1031,Sick,2025-12-25,2025-12-27,3,Dealing with severe migraine attacks requiring rest and medication,Medical,1
+EMP00592,Employee_592,Engineering,Contract,2023-07-09,884,Emergency,2026-01-06,2026-01-17,12,Planned family vacation to spend quality time together,Personal,0
+EMP00593,Employee_593,Admin,Probation,2023-12-22,718,Sick,2025-12-14,2025-12-27,14,Need to undergo surgery and recovery time at home,Medical,0
+EMP00594,Employee_594,HR,Probation,2023-08-25,837,Earned,2025-12-10,2025-12-16,7,Need some days off for personal work and errands,Other,0
+EMP00595,Employee_595,HR,Contract,2025-11-24,15,Emergency,2026-01-01,2026-01-07,7,Close relative in critical condition at emergency room,Emergency,0
+EMP00596,Employee_596,Sales,Permanent,2025-01-26,317,Emergency,2025-12-18,2026-01-05,19,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00597,Employee_597,IT,Contract,2023-11-21,749,Earned,2026-01-03,2026-01-15,13,Attending important family function out of town,Personal,0
+EMP00598,Employee_598,Admin,Permanent,2023-11-11,759,Emergency,2025-12-19,2025-12-27,9,Close relative in critical condition at emergency room,Emergency,1
+EMP00599,Employee_599,Finance,Contract,2025-04-09,244,Casual,2026-01-04,2026-01-18,15,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00600,Employee_600,HR,Permanent,2023-02-01,1042,Emergency,2026-01-04,2026-01-14,11,Family emergency due to sudden hospitalization of parent requiring immediate attention,Emergency,1
+EMP00601,Employee_601,Finance,Probation,2025-11-28,11,Sick,2025-12-25,2025-12-29,5,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00602,Employee_602,HR,Permanent,2024-06-18,539,Casual,2025-12-12,2025-12-23,12,I am suffering from high fever and need to visit the doctor for checkup,Medical,0
+EMP00603,Employee_603,IT,Probation,2023-01-06,1068,Earned,2025-12-11,2025-12-30,20,Home renovation work supervision requiring presence,Personal,0
+EMP00604,Employee_604,Admin,Probation,2025-11-17,22,Casual,2025-12-19,2026-01-04,17,Attending family wedding ceremony and related functions,Personal,0
+EMP00605,Employee_605,Marketing,Contract,2024-12-26,348,Sick,2025-12-17,2025-12-28,12,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00606,Employee_606,HR,Probation,2023-09-12,819,Earned,2025-12-22,2026-01-03,13,Need time to complete pending personal documentation work,Other,0
+EMP00607,Employee_607,Engineering,Contract,2025-07-21,141,Sick,2025-12-19,2026-01-05,18,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00608,Employee_608,Sales,Probation,2024-05-21,567,Casual,2025-12-16,2026-01-04,20,Need to handle some important personal matters,Other,0
+EMP00609,Employee_609,Engineering,Probation,2024-12-15,359,Emergency,2025-12-13,2025-12-29,17,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00610,Employee_610,Operations,Probation,2025-04-13,240,Earned,2026-01-05,2026-01-22,18,Planning to attend professional certification exam,Other,0
+EMP00611,Employee_611,Admin,Probation,2023-03-24,991,Casual,2026-01-03,2026-01-13,11,Taking time off for self-care and rejuvenation,Other,0
+EMP00612,Employee_612,Engineering,Probation,2025-04-14,239,Earned,2025-12-22,2025-12-24,3,Need time to complete pending personal documentation work,Other,0
+EMP00613,Employee_613,Marketing,Probation,2023-08-17,845,Earned,2025-12-27,2026-01-12,17,Long planned trip for family reunion and bonding,Personal,0
+EMP00614,Employee_614,Operations,Permanent,2024-04-29,589,Sick,2025-12-31,2026-01-12,13,Diagnosed with infection and need time for medication and treatment,Medical,1
+EMP00615,Employee_615,HR,Contract,2024-12-08,366,Emergency,2025-12-21,2025-12-31,11,Urgent legal matter requiring immediate personal presence,Emergency,0
+EMP00616,Employee_616,Operations,Permanent,2024-11-14,390,Emergency,2025-12-17,2025-12-23,7,Critical emergency involving elderly family member hospitalization,Emergency,1
+EMP00617,Employee_617,Marketing,Permanent,2024-10-19,416,Casual,2025-12-21,2026-01-09,20,Child's school annual day function and parent participation required,Personal,0
+EMP00618,Employee_618,HR,Permanent,2023-03-06,1009,Sick,2025-12-11,2025-12-28,18,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00619,Employee_619,Sales,Probation,2024-05-25,563,Emergency,2026-01-03,2026-01-08,6,Critical emergency involving elderly family member hospitalization,Emergency,0
+EMP00620,Employee_620,IT,Permanent,2025-03-21,263,Sick,2026-01-04,2026-01-20,17,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00621,Employee_621,Engineering,Contract,2023-12-28,712,Emergency,2025-12-24,2025-12-29,6,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00622,Employee_622,Admin,Probation,2025-11-21,18,Sick,2025-12-22,2025-12-28,7,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00623,Employee_623,Sales,Contract,2024-06-25,532,Casual,2025-12-18,2026-01-04,18,Religious festival celebration with family gathering,Personal,0
+EMP00624,Employee_624,Admin,Contract,2024-01-06,703,Earned,2025-12-25,2025-12-30,6,Need to undergo surgery and recovery time at home,Medical,0
+EMP00625,Employee_625,IT,Contract,2023-11-07,763,Earned,2025-12-18,2025-12-30,13,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00626,Employee_626,Finance,Contract,2024-08-27,469,Sick,2026-01-04,2026-01-12,9,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00627,Employee_627,IT,Permanent,2025-02-13,299,Casual,2026-01-04,2026-01-19,16,Moving to new house and need time for relocation activities,Personal,0
+EMP00628,Employee_628,IT,Probation,2025-03-08,276,Earned,2025-12-19,2026-01-03,16,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00629,Employee_629,Engineering,Probation,2025-05-20,203,Casual,2025-12-16,2025-12-17,2,Taking time off for self-care and rejuvenation,Other,1
+EMP00630,Employee_630,HR,Probation,2024-01-23,686,Earned,2025-12-21,2026-01-01,12,Want to spend time on personal development activities,Other,0
+EMP00631,Employee_631,Operations,Probation,2025-10-29,41,Emergency,2025-12-21,2025-12-24,4,Urgent legal matter requiring immediate personal presence,Emergency,0
+EMP00632,Employee_632,Marketing,Contract,2024-12-16,358,Earned,2025-12-20,2025-12-31,12,Want to spend time on personal development activities,Other,0
+EMP00633,Employee_633,Admin,Contract,2023-06-07,916,Sick,2025-12-29,2026-01-10,13,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00634,Employee_634,Finance,Contract,2024-01-18,691,Emergency,2025-12-28,2026-01-16,20,Urgent situation at home needs immediate presence and resolution,Emergency,0
+EMP00635,Employee_635,HR,Permanent,2024-01-05,704,Casual,2025-12-20,2025-12-30,11,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00636,Employee_636,Operations,Contract,2023-09-21,810,Earned,2026-01-03,2026-01-17,15,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00637,Employee_637,Admin,Probation,2024-12-31,343,Casual,2025-12-14,2025-12-14,1,Need to undergo surgery and recovery time at home,Medical,1
+EMP00638,Employee_638,Operations,Contract,2025-06-28,164,Casual,2025-12-22,2025-12-27,6,Child's school annual day function and parent participation required,Personal,0
+EMP00639,Employee_639,HR,Probation,2025-08-20,111,Sick,2025-12-26,2026-01-07,13,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00640,Employee_640,HR,Probation,2025-01-24,319,Sick,2025-12-19,2025-12-31,13,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00641,Employee_641,Admin,Contract,2025-03-25,259,Casual,2026-01-05,2026-01-21,17,Attending family wedding ceremony and related functions,Personal,0
+EMP00642,Employee_642,Engineering,Contract,2023-12-09,731,Earned,2025-12-24,2026-01-08,16,Planning to attend professional certification exam,Other,0
+EMP00643,Employee_643,Admin,Permanent,2024-12-11,363,Emergency,2025-12-23,2026-01-10,19,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00644,Employee_644,Operations,Probation,2023-03-28,987,Casual,2025-12-24,2025-12-26,3,Personal reasons requiring few days of absence,Other,0
+EMP00645,Employee_645,IT,Probation,2025-01-24,319,Earned,2025-12-10,2025-12-10,1,Want to pursue personal hobby project during time off,Other,1
+EMP00646,Employee_646,Sales,Probation,2023-04-23,961,Sick,2026-01-03,2026-01-18,16,I am suffering from high fever and need to visit the doctor for checkup,Medical,0
+EMP00647,Employee_647,IT,Probation,2024-08-22,474,Sick,2025-12-21,2026-01-07,18,Need to handle some important personal matters,Other,0
+EMP00648,Employee_648,Marketing,Permanent,2023-10-02,799,Emergency,2025-12-18,2025-12-25,8,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,1
+EMP00649,Employee_649,Operations,Probation,2022-12-15,1090,Earned,2025-12-16,2025-12-29,14,Moving to new house and need time for relocation activities,Personal,0
+EMP00650,Employee_650,Finance,Probation,2025-04-26,227,Emergency,2025-12-24,2026-01-12,20,Urgent legal matter requiring immediate personal presence,Emergency,0
+EMP00651,Employee_651,Admin,Permanent,2024-02-21,657,Sick,2025-12-11,2025-12-15,5,I am suffering from high fever and need to visit the doctor for checkup,Medical,1
+EMP00652,Employee_652,Finance,Permanent,2024-05-10,578,Earned,2026-01-01,2026-01-05,5,I am suffering from high fever and need to visit the doctor for checkup,Medical,1
+EMP00653,Employee_653,Marketing,Permanent,2025-02-03,309,Sick,2025-12-16,2025-12-31,16,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00654,Employee_654,Admin,Probation,2023-05-04,950,Sick,2025-12-12,2025-12-22,11,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00655,Employee_655,Engineering,Probation,2023-09-27,804,Sick,2025-12-25,2026-01-11,18,Need to handle some important personal matters,Other,0
+EMP00656,Employee_656,Engineering,Permanent,2024-07-17,510,Emergency,2025-12-17,2025-12-31,15,Family emergency due to sudden hospitalization of parent requiring immediate attention,Emergency,1
+EMP00657,Employee_657,Marketing,Probation,2025-05-30,193,Casual,2025-12-22,2026-01-06,16,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00658,Employee_658,Sales,Permanent,2025-09-13,87,Sick,2025-12-25,2026-01-02,9,Need to undergo surgery and recovery time at home,Medical,1
+EMP00659,Employee_659,Sales,Permanent,2024-09-18,447,Sick,2025-12-30,2026-01-06,8,I am suffering from high fever and need to visit the doctor for checkup,Medical,1
+EMP00660,Employee_660,Finance,Probation,2025-04-07,246,Emergency,2025-12-10,2025-12-17,8,Urgent legal matter requiring immediate personal presence,Emergency,0
+EMP00661,Employee_661,Admin,Contract,2025-01-25,318,Earned,2025-12-17,2025-12-19,3,Parent's birthday celebration and family get together,Personal,0
+EMP00662,Employee_662,Sales,Contract,2025-08-08,123,Sick,2025-12-30,2026-01-10,12,Moving to new house and need time for relocation activities,Personal,0
+EMP00663,Employee_663,Admin,Permanent,2024-02-29,649,Earned,2026-01-02,2026-01-16,15,Attending family wedding ceremony and related functions,Personal,1
+EMP00664,Employee_664,Sales,Contract,2025-03-08,276,Earned,2025-12-25,2025-12-26,2,Taking time off for self-care and rejuvenation,Other,1
+EMP00665,Employee_665,Admin,Permanent,2024-11-21,383,Earned,2026-01-02,2026-01-12,11,Having flu symptoms and doctor advised rest for few days,Medical,1
+EMP00666,Employee_666,Finance,Permanent,2022-12-17,1088,Casual,2025-12-19,2026-01-02,15,Want to spend time on personal development activities,Other,0
+EMP00667,Employee_667,Sales,Probation,2025-12-07,2,Emergency,2026-01-07,2026-01-12,6,Cultural event participation with family members,Personal,0
+EMP00668,Employee_668,Marketing,Probation,2025-08-01,130,Emergency,2025-12-26,2026-01-01,7,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00669,Employee_669,Finance,Contract,2024-05-08,580,Earned,2025-12-30,2026-01-12,14,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00670,Employee_670,HR,Contract,2025-07-25,137,Sick,2025-12-15,2025-12-19,5,Need to undergo surgery and recovery time at home,Medical,1
+EMP00671,Employee_671,HR,Probation,2024-11-11,393,Sick,2025-12-28,2025-12-29,2,Dental emergency requiring immediate clinic visit and recovery,Medical,1
+EMP00672,Employee_672,Admin,Contract,2024-07-02,525,Sick,2025-12-17,2025-12-28,12,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00673,Employee_673,Engineering,Permanent,2023-03-08,1007,Sick,2026-01-04,2026-01-18,15,Diagnosed with infection and need time for medication and treatment,Medical,1
+EMP00674,Employee_674,IT,Probation,2025-08-11,120,Earned,2025-12-11,2025-12-27,17,Taking break for mental health and stress relief,Other,0
+EMP00675,Employee_675,Operations,Permanent,2024-09-22,443,Sick,2026-01-02,2026-01-05,4,Dental emergency requiring immediate clinic visit and recovery,Medical,1
+EMP00676,Employee_676,Marketing,Permanent,2022-12-27,1078,Casual,2025-12-30,2026-01-17,19,Personal commitment to attend cousin's marriage ceremony,Personal,0
+EMP00677,Employee_677,IT,Contract,2025-05-06,217,Earned,2026-01-01,2026-01-15,15,Need to handle some important personal matters,Other,0
+EMP00678,Employee_678,HR,Permanent,2024-12-04,370,Emergency,2025-12-20,2026-01-05,17,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00679,Employee_679,Admin,Probation,2024-03-03,646,Earned,2025-12-23,2026-01-03,12,Need to handle some important personal matters,Other,0
+EMP00680,Employee_680,Sales,Contract,2024-08-03,493,Casual,2026-01-03,2026-01-15,13,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00681,Employee_681,Sales,Probation,2023-06-06,917,Emergency,2026-01-02,2026-01-02,1,Cultural event participation with family members,Personal,1
+EMP00682,Employee_682,Engineering,Contract,2025-03-07,277,Earned,2025-12-19,2025-12-19,1,Planned family vacation to spend quality time together,Personal,1
+EMP00683,Employee_683,Engineering,Contract,2024-05-22,566,Casual,2025-12-11,2025-12-14,4,Personal reasons requiring few days of absence,Other,0
+EMP00684,Employee_684,Finance,Permanent,2024-06-14,543,Earned,2025-12-17,2026-01-04,19,Religious festival celebration with family gathering,Personal,0
+EMP00685,Employee_685,Operations,Permanent,2023-09-12,819,Casual,2026-01-02,2026-01-04,3,Taking time off for self-care and rejuvenation,Other,1
+EMP00686,Employee_686,Finance,Probation,2025-05-27,196,Earned,2026-01-02,2026-01-03,2,Need to handle some important personal matters,Other,1
+EMP00687,Employee_687,HR,Permanent,2024-01-24,685,Earned,2025-12-23,2026-01-05,14,Planned family vacation to spend quality time together,Personal,1
+EMP00688,Employee_688,Engineering,Contract,2023-10-17,784,Sick,2025-12-26,2026-01-04,10,Anniversary celebration with spouse at planned destination,Personal,0
+EMP00689,Employee_689,Marketing,Permanent,2025-08-27,104,Emergency,2026-01-03,2026-01-17,15,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00690,Employee_690,IT,Probation,2023-09-23,808,Casual,2025-12-20,2025-12-24,5,Parent's birthday celebration and family get together,Personal,0
+EMP00691,Employee_691,Engineering,Contract,2023-09-13,818,Earned,2025-12-22,2025-12-24,3,Need to handle some important personal matters,Other,1
+EMP00692,Employee_692,Finance,Permanent,2023-03-30,985,Casual,2025-12-22,2026-01-06,16,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00693,Employee_693,Marketing,Contract,2022-12-31,1074,Casual,2025-12-12,2025-12-19,8,Need to handle some important personal matters,Other,0
+EMP00694,Employee_694,Sales,Contract,2025-06-08,184,Sick,2025-12-23,2026-01-05,14,Need to undergo surgery and recovery time at home,Medical,0
+EMP00695,Employee_695,Sales,Probation,2025-10-20,50,Earned,2025-12-21,2025-12-26,6,Taking time off for self-care and rejuvenation,Other,0
+EMP00696,Employee_696,Finance,Probation,2025-09-08,92,Casual,2025-12-31,2026-01-06,7,Want to pursue personal hobby project during time off,Other,0
+EMP00697,Employee_697,HR,Permanent,2025-08-19,112,Casual,2026-01-08,2026-01-27,20,Religious festival celebration with family gathering,Personal,0
+EMP00698,Employee_698,Engineering,Probation,2025-04-25,228,Earned,2025-12-25,2026-01-08,15,Anniversary celebration with spouse at planned destination,Personal,0
+EMP00699,Employee_699,Marketing,Contract,2024-10-01,434,Casual,2025-12-26,2026-01-12,18,Want to spend time on personal development activities,Other,0
+EMP00700,Employee_700,Admin,Contract,2025-02-22,290,Sick,2025-12-28,2026-01-09,13,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00701,Employee_701,Engineering,Probation,2024-12-25,349,Sick,2025-12-16,2025-12-25,10,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00702,Employee_702,Operations,Permanent,2023-05-01,953,Sick,2025-12-22,2025-12-24,3,Diagnosed with infection and need time for medication and treatment,Medical,1
+EMP00703,Employee_703,HR,Permanent,2024-04-18,600,Emergency,2025-12-22,2025-12-29,8,Urgent situation at home needs immediate presence and resolution,Emergency,1
+EMP00704,Employee_704,Sales,Probation,2022-12-16,1089,Sick,2025-12-16,2025-12-21,6,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00705,Employee_705,Engineering,Permanent,2024-07-20,507,Earned,2025-12-25,2026-01-04,11,Experiencing severe headache and stomach pain requiring medical attention,Medical,1
+EMP00706,Employee_706,Engineering,Probation,2023-12-19,721,Earned,2025-12-17,2025-12-26,10,Planning to attend professional certification exam,Other,0
+EMP00707,Employee_707,Engineering,Contract,2024-06-29,528,Emergency,2025-12-27,2025-12-27,1,Child met with an accident and needs immediate care,Emergency,1
+EMP00708,Employee_708,Finance,Probation,2023-09-26,805,Casual,2026-01-02,2026-01-04,3,Want to spend time on personal development activities,Other,0
+EMP00709,Employee_709,Marketing,Probation,2024-08-03,493,Casual,2025-12-19,2026-01-01,14,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00710,Employee_710,Admin,Contract,2025-03-14,270,Casual,2025-12-28,2026-01-01,5,Need to undergo surgery and recovery time at home,Medical,0
+EMP00711,Employee_711,Finance,Probation,2023-01-01,1073,Casual,2026-01-08,2026-01-21,14,Home renovation work supervision requiring presence,Personal,0
+EMP00712,Employee_712,Finance,Probation,2025-07-23,139,Sick,2025-12-20,2025-12-25,6,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00713,Employee_713,Engineering,Probation,2023-08-14,848,Emergency,2025-12-24,2026-01-02,10,Critical emergency involving elderly family member hospitalization,Emergency,0
+EMP00714,Employee_714,Finance,Permanent,2025-05-04,219,Casual,2025-12-10,2025-12-15,6,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00715,Employee_715,Operations,Contract,2024-08-23,473,Casual,2025-12-31,2026-01-07,8,Anniversary celebration with spouse at planned destination,Personal,0
+EMP00716,Employee_716,HR,Contract,2023-04-07,977,Casual,2026-01-06,2026-01-22,17,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00717,Employee_717,Sales,Permanent,2023-10-07,794,Emergency,2025-12-14,2025-12-29,16,Child met with an accident and needs immediate care,Emergency,0
+EMP00718,Employee_718,Engineering,Probation,2025-11-08,31,Earned,2025-12-17,2025-12-30,14,Need time to complete pending personal documentation work,Other,0
+EMP00719,Employee_719,Marketing,Permanent,2024-12-11,363,Emergency,2025-12-25,2026-01-13,20,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00720,Employee_720,Marketing,Probation,2023-09-01,830,Sick,2026-01-02,2026-01-21,20,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00721,Employee_721,IT,Contract,2022-12-29,1076,Sick,2025-12-13,2025-12-29,17,I am suffering from high fever and need to visit the doctor for checkup,Medical,0
+EMP00722,Employee_722,Marketing,Contract,2023-09-20,811,Sick,2025-12-22,2026-01-08,18,I am suffering from high fever and need to visit the doctor for checkup,Medical,0
+EMP00723,Employee_723,Marketing,Probation,2023-06-22,901,Emergency,2026-01-03,2026-01-12,10,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00724,Employee_724,Finance,Probation,2024-04-15,603,Sick,2026-01-07,2026-01-23,17,Taking break for mental health and stress relief,Other,0
+EMP00725,Employee_725,HR,Permanent,2025-03-06,278,Emergency,2025-12-20,2026-01-02,14,Death in the family and need to attend funeral arrangements,Emergency,1
+EMP00726,Employee_726,Admin,Contract,2024-10-21,414,Emergency,2025-12-18,2025-12-20,3,Death in the family and need to attend funeral arrangements,Emergency,1
+EMP00727,Employee_727,HR,Permanent,2025-04-19,234,Emergency,2025-12-12,2025-12-23,12,Close relative in critical condition at emergency room,Emergency,1
+EMP00728,Employee_728,Finance,Probation,2023-10-21,780,Sick,2026-01-08,2026-01-13,6,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00729,Employee_729,Finance,Permanent,2024-12-07,367,Sick,2025-12-19,2026-01-01,14,Chronic back pain has worsened and need physiotherapy sessions,Medical,1
+EMP00730,Employee_730,Operations,Contract,2024-12-03,371,Sick,2025-12-16,2025-12-20,5,Need some days off for personal work and errands,Other,1
+EMP00731,Employee_731,Admin,Contract,2025-11-27,12,Emergency,2025-12-16,2025-12-23,8,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00732,Employee_732,Admin,Probation,2023-06-18,905,Sick,2025-12-29,2026-01-17,20,Need break from work for personal well-being,Other,0
+EMP00733,Employee_733,Marketing,Permanent,2024-11-25,379,Casual,2025-12-30,2025-12-31,2,Need some days off for personal work and errands,Other,1
+EMP00734,Employee_734,Finance,Permanent,2024-04-06,612,Earned,2025-12-11,2025-12-13,3,Attending important family function out of town,Personal,1
+EMP00735,Employee_735,Finance,Permanent,2024-05-05,583,Casual,2026-01-02,2026-01-16,15,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00736,Employee_736,Engineering,Permanent,2024-04-05,613,Earned,2026-01-07,2026-01-18,12,I have a medical appointment scheduled at the hospital for health issues,Medical,1
+EMP00737,Employee_737,IT,Contract,2025-07-29,133,Earned,2025-12-14,2025-12-29,16,Long planned trip for family reunion and bonding,Personal,0
+EMP00738,Employee_738,Operations,Probation,2022-12-25,1080,Emergency,2025-12-16,2026-01-01,17,Urgent legal matter requiring immediate personal presence,Emergency,0
+EMP00739,Employee_739,Engineering,Permanent,2022-12-21,1084,Sick,2026-01-02,2026-01-17,16,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00740,Employee_740,IT,Contract,2024-02-29,649,Earned,2025-12-28,2026-01-13,17,Personal reasons requiring few days of absence,Other,0
+EMP00741,Employee_741,Finance,Contract,2023-02-26,1017,Emergency,2026-01-04,2026-01-19,16,Urgent legal matter requiring immediate personal presence,Emergency,0
+EMP00742,Employee_742,Marketing,Contract,2024-04-23,595,Casual,2025-12-13,2025-12-13,1,Parent's birthday celebration and family get together,Personal,1
+EMP00743,Employee_743,HR,Contract,2024-10-10,425,Emergency,2025-12-11,2025-12-24,14,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00744,Employee_744,Marketing,Permanent,2024-10-22,413,Earned,2026-01-04,2026-01-12,9,Religious festival celebration with family gathering,Personal,1
+EMP00745,Employee_745,Operations,Contract,2024-02-14,664,Sick,2025-12-31,2026-01-03,4,Dental emergency requiring immediate clinic visit and recovery,Medical,1
+EMP00746,Employee_746,Engineering,Permanent,2024-11-06,398,Earned,2026-01-08,2026-01-18,11,Taking time off for self-care and rejuvenation,Other,0
+EMP00747,Employee_747,Admin,Permanent,2025-03-05,279,Emergency,2025-12-30,2026-01-03,5,Sudden family bereavement and funeral ceremony attendance,Emergency,1
+EMP00748,Employee_748,Sales,Probation,2023-08-14,848,Sick,2025-12-19,2026-01-04,17,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00749,Employee_749,Engineering,Permanent,2024-01-29,680,Earned,2025-12-14,2025-12-16,3,I am suffering from high fever and need to visit the doctor for checkup,Medical,1
+EMP00750,Employee_750,Sales,Probation,2022-12-10,1095,Casual,2025-12-29,2026-01-16,19,Want to pursue personal hobby project during time off,Other,0
+EMP00751,Employee_751,HR,Probation,2024-03-04,645,Sick,2025-12-23,2025-12-31,9,Anniversary celebration with spouse at planned destination,Personal,0
+EMP00752,Employee_752,Admin,Probation,2024-09-22,443,Earned,2025-12-13,2025-12-18,6,I am suffering from high fever and need to visit the doctor for checkup,Medical,0
+EMP00753,Employee_753,Marketing,Permanent,2023-06-14,909,Sick,2026-01-07,2026-01-22,16,Need to undergo surgery and recovery time at home,Medical,0
+EMP00754,Employee_754,Sales,Probation,2023-01-01,1073,Earned,2025-12-14,2025-12-24,11,Personal commitment to attend cousin's marriage ceremony,Personal,0
+EMP00755,Employee_755,Finance,Permanent,2025-09-25,75,Emergency,2026-01-01,2026-01-13,13,Urgent situation at home needs immediate presence and resolution,Emergency,0
+EMP00756,Employee_756,Engineering,Contract,2025-06-13,179,Earned,2026-01-07,2026-01-21,15,Child's school annual day function and parent participation required,Personal,0
+EMP00757,Employee_757,Operations,Permanent,2024-03-09,640,Casual,2025-12-16,2025-12-26,11,Religious festival celebration with family gathering,Personal,0
+EMP00758,Employee_758,Operations,Contract,2024-02-24,654,Emergency,2025-12-18,2025-12-21,4,Child's school annual day function and parent participation required,Personal,0
+EMP00759,Employee_759,HR,Permanent,2023-12-22,718,Earned,2025-12-14,2025-12-22,9,Planning to attend professional certification exam,Other,1
+EMP00760,Employee_760,Finance,Permanent,2024-03-11,638,Earned,2025-12-24,2026-01-10,18,Moving to new house and need time for relocation activities,Personal,0
+EMP00761,Employee_761,Engineering,Probation,2025-08-27,104,Sick,2025-12-11,2025-12-23,13,Want to pursue personal hobby project during time off,Other,0
+EMP00762,Employee_762,Admin,Contract,2023-12-11,729,Earned,2026-01-05,2026-01-15,11,Long planned trip for family reunion and bonding,Personal,0
+EMP00763,Employee_763,HR,Probation,2025-03-14,270,Sick,2025-12-13,2025-12-27,15,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00764,Employee_764,Admin,Permanent,2024-09-06,459,Casual,2025-12-18,2026-01-06,20,Need to handle some important personal matters,Other,0
+EMP00765,Employee_765,Finance,Contract,2024-02-01,677,Earned,2025-12-25,2026-01-08,15,Child's school annual day function and parent participation required,Personal,0
+EMP00766,Employee_766,Admin,Permanent,2023-12-20,720,Emergency,2026-01-06,2026-01-20,15,Unexpected family crisis requiring immediate travel back home,Emergency,1
+EMP00767,Employee_767,Finance,Contract,2025-05-12,211,Emergency,2025-12-20,2025-12-23,4,Urgent situation at home needs immediate presence and resolution,Emergency,1
+EMP00768,Employee_768,Operations,Contract,2023-05-09,945,Emergency,2025-12-23,2026-01-10,19,Child met with an accident and needs immediate care,Emergency,0
+EMP00769,Employee_769,Finance,Probation,2023-10-14,787,Sick,2025-12-16,2025-12-26,11,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00770,Employee_770,IT,Probation,2024-01-08,701,Casual,2025-12-31,2026-01-05,6,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00771,Employee_771,Admin,Permanent,2023-05-05,949,Earned,2025-12-13,2025-12-30,18,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00772,Employee_772,Operations,Probation,2025-07-19,143,Sick,2026-01-03,2026-01-22,20,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00773,Employee_773,Admin,Contract,2025-08-05,126,Sick,2026-01-05,2026-01-11,7,Moving to new house and need time for relocation activities,Personal,0
+EMP00774,Employee_774,Finance,Probation,2022-12-16,1089,Earned,2025-12-29,2026-01-10,13,Taking time off for self-care and rejuvenation,Other,0
+EMP00775,Employee_775,Marketing,Permanent,2024-02-29,649,Earned,2026-01-04,2026-01-22,19,Planning to attend professional certification exam,Other,0
+EMP00776,Employee_776,IT,Contract,2024-01-03,706,Sick,2025-12-10,2025-12-28,19,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00777,Employee_777,IT,Permanent,2024-04-15,603,Sick,2026-01-07,2026-01-18,12,I am suffering from high fever and need to visit the doctor for checkup,Medical,1
+EMP00778,Employee_778,Engineering,Contract,2023-12-04,736,Sick,2026-01-06,2026-01-15,10,Need break from work for personal well-being,Other,0
+EMP00779,Employee_779,IT,Contract,2024-02-26,652,Emergency,2025-12-22,2026-01-03,13,Child met with an accident and needs immediate care,Emergency,0
+EMP00780,Employee_780,Finance,Probation,2025-02-27,285,Casual,2025-12-22,2026-01-08,18,Need to handle some important personal matters,Other,0
+EMP00781,Employee_781,Finance,Probation,2025-03-26,258,Casual,2025-12-12,2025-12-12,1,I am suffering from high fever and need to visit the doctor for checkup,Medical,1
+EMP00782,Employee_782,Finance,Contract,2023-03-18,997,Emergency,2025-12-12,2025-12-16,5,Parent's birthday celebration and family get together,Personal,1
+EMP00783,Employee_783,IT,Contract,2024-12-05,369,Emergency,2025-12-23,2026-01-08,17,Home emergency due to natural disaster requiring immediate action,Emergency,0
+EMP00784,Employee_784,IT,Probation,2024-09-02,463,Casual,2025-12-29,2026-01-11,14,Cultural event participation with family members,Personal,0
+EMP00785,Employee_785,Admin,Contract,2024-08-11,485,Earned,2026-01-08,2026-01-21,14,Need break from work for personal well-being,Other,0
+EMP00786,Employee_786,Sales,Permanent,2025-09-22,78,Emergency,2025-12-13,2025-12-24,12,Urgent situation at home needs immediate presence and resolution,Emergency,0
+EMP00787,Employee_787,Operations,Probation,2023-01-15,1059,Sick,2026-01-07,2026-01-23,17,Need to undergo surgery and recovery time at home,Medical,0
+EMP00788,Employee_788,Admin,Contract,2025-07-02,160,Earned,2025-12-11,2025-12-30,20,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00789,Employee_789,Engineering,Probation,2023-05-24,930,Emergency,2026-01-02,2026-01-20,19,Unexpected family crisis requiring immediate travel back home,Emergency,0
+EMP00790,Employee_790,Operations,Probation,2024-12-30,344,Sick,2026-01-02,2026-01-21,20,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00791,Employee_791,Operations,Permanent,2023-04-14,970,Casual,2025-12-11,2025-12-29,19,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00792,Employee_792,Engineering,Probation,2023-03-22,993,Sick,2025-12-26,2025-12-30,5,Planning to attend professional certification exam,Other,0
+EMP00793,Employee_793,Finance,Contract,2024-05-12,576,Earned,2025-12-10,2025-12-18,9,Taking break for mental health and stress relief,Other,0
+EMP00794,Employee_794,Finance,Contract,2025-02-02,310,Emergency,2026-01-04,2026-01-15,12,Child met with an accident and needs immediate care,Emergency,0
+EMP00795,Employee_795,Admin,Permanent,2022-12-24,1081,Sick,2025-12-12,2025-12-22,11,Dealing with severe migraine attacks requiring rest and medication,Medical,1
+EMP00796,Employee_796,Finance,Probation,2023-08-16,846,Emergency,2025-12-31,2026-01-07,8,Death in the family and need to attend funeral arrangements,Emergency,0
+EMP00797,Employee_797,Marketing,Contract,2024-01-02,707,Sick,2026-01-03,2026-01-11,9,I am suffering from high fever and need to visit the doctor for checkup,Medical,0
+EMP00798,Employee_798,Finance,Probation,2023-09-14,817,Emergency,2025-12-25,2026-01-03,10,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00799,Employee_799,Marketing,Probation,2023-10-02,799,Emergency,2025-12-14,2025-12-22,9,Close relative in critical condition at emergency room,Emergency,0
+EMP00800,Employee_800,Engineering,Probation,2023-06-03,920,Emergency,2025-12-26,2026-01-05,11,Family emergency due to sudden hospitalization of parent requiring immediate attention,Emergency,0
+EMP00801,Employee_801,HR,Contract,2023-12-15,725,Emergency,2026-01-08,2026-01-27,20,Critical emergency involving elderly family member hospitalization,Emergency,0
+EMP00802,Employee_802,Sales,Probation,2024-06-10,547,Sick,2025-12-30,2026-01-07,9,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00803,Employee_803,Marketing,Contract,2024-11-04,400,Earned,2025-12-20,2025-12-25,6,Need some days off for personal work and errands,Other,0
+EMP00804,Employee_804,Engineering,Permanent,2025-11-14,25,Emergency,2025-12-26,2025-12-29,4,Anniversary celebration with spouse at planned destination,Personal,0
+EMP00805,Employee_805,Marketing,Contract,2024-05-07,581,Earned,2025-12-11,2025-12-17,7,Cultural event participation with family members,Personal,0
+EMP00806,Employee_806,HR,Permanent,2024-09-20,445,Sick,2025-12-12,2025-12-15,4,Experiencing severe headache and stomach pain requiring medical attention,Medical,1
+EMP00807,Employee_807,IT,Contract,2024-11-25,379,Sick,2025-12-18,2025-12-23,6,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00808,Employee_808,Admin,Probation,2023-07-18,875,Earned,2025-12-15,2025-12-23,9,Religious festival celebration with family gathering,Personal,0
+EMP00809,Employee_809,Engineering,Probation,2023-10-05,796,Earned,2025-12-18,2025-12-19,2,Experiencing severe headache and stomach pain requiring medical attention,Medical,1
+EMP00810,Employee_810,Admin,Permanent,2023-03-07,1008,Casual,2025-12-22,2026-01-10,20,Home renovation work supervision requiring presence,Personal,0
+EMP00811,Employee_811,Admin,Permanent,2025-02-17,295,Emergency,2025-12-29,2026-01-04,7,Home emergency due to natural disaster requiring immediate action,Emergency,1
+EMP00812,Employee_812,Operations,Permanent,2025-09-28,72,Sick,2025-12-28,2025-12-30,3,Chronic back pain has worsened and need physiotherapy sessions,Medical,1
+EMP00813,Employee_813,Engineering,Probation,2025-02-07,305,Sick,2025-12-31,2026-01-01,2,Experiencing severe headache and stomach pain requiring medical attention,Medical,1
+EMP00814,Employee_814,Sales,Probation,2025-12-01,8,Emergency,2025-12-23,2026-01-07,16,Urgent situation at home needs immediate presence and resolution,Emergency,0
+EMP00815,Employee_815,Marketing,Permanent,2023-10-13,788,Emergency,2025-12-28,2025-12-31,4,Unexpected family crisis requiring immediate travel back home,Emergency,1
+EMP00816,Employee_816,Sales,Contract,2024-03-28,621,Emergency,2025-12-30,2025-12-31,2,Urgent situation at home needs immediate presence and resolution,Emergency,1
+EMP00817,Employee_817,Sales,Contract,2024-01-12,697,Sick,2026-01-03,2026-01-17,15,Need to undergo surgery and recovery time at home,Medical,0
+EMP00818,Employee_818,Finance,Contract,2025-09-19,81,Emergency,2025-12-19,2025-12-25,7,Urgent situation at home needs immediate presence and resolution,Emergency,0
+EMP00819,Employee_819,Sales,Probation,2025-06-18,174,Emergency,2025-12-14,2025-12-20,7,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00820,Employee_820,Marketing,Probation,2023-10-04,797,Sick,2025-12-30,2026-01-16,18,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00821,Employee_821,Admin,Permanent,2025-09-24,76,Earned,2025-12-20,2025-12-21,2,Need some days off for personal work and errands,Other,0
+EMP00822,Employee_822,IT,Permanent,2024-10-01,434,Emergency,2025-12-14,2025-12-31,18,Child met with an accident and needs immediate care,Emergency,0
+EMP00823,Employee_823,HR,Permanent,2025-02-22,290,Emergency,2025-12-25,2025-12-25,1,Urgent legal matter requiring immediate personal presence,Emergency,1
+EMP00824,Employee_824,Engineering,Permanent,2025-03-16,268,Sick,2025-12-30,2026-01-04,6,Taking break for mental health and stress relief,Other,1
+EMP00825,Employee_825,Finance,Contract,2025-07-31,131,Sick,2025-12-25,2025-12-28,4,Dealing with severe migraine attacks requiring rest and medication,Medical,1
+EMP00826,Employee_826,Marketing,Permanent,2024-10-19,416,Emergency,2026-01-04,2026-01-14,11,Close relative in critical condition at emergency room,Emergency,1
+EMP00827,Employee_827,Sales,Permanent,2025-03-02,282,Earned,2026-01-03,2026-01-09,7,Cultural event participation with family members,Personal,1
+EMP00828,Employee_828,Finance,Probation,2025-08-01,130,Sick,2025-12-14,2025-12-22,9,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00829,Employee_829,Sales,Contract,2025-01-05,338,Emergency,2026-01-08,2026-01-15,8,Death in the family and need to attend funeral arrangements,Emergency,0
+EMP00830,Employee_830,HR,Contract,2023-10-30,771,Casual,2026-01-07,2026-01-07,1,Taking break for mental health and stress relief,Other,1
+EMP00831,Employee_831,Engineering,Permanent,2024-12-06,368,Sick,2026-01-07,2026-01-25,19,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00832,Employee_832,Finance,Permanent,2025-02-18,294,Earned,2025-12-24,2026-01-09,17,Need to undergo surgery and recovery time at home,Medical,0
+EMP00833,Employee_833,Finance,Contract,2025-09-22,78,Casual,2025-12-29,2026-01-13,16,Home renovation work supervision requiring presence,Personal,0
+EMP00834,Employee_834,Operations,Probation,2023-08-04,858,Sick,2025-12-17,2026-01-03,18,Cultural event participation with family members,Personal,0
+EMP00835,Employee_835,Sales,Contract,2023-02-03,1040,Casual,2026-01-03,2026-01-17,15,Need to undergo surgery and recovery time at home,Medical,0
+EMP00836,Employee_836,Operations,Permanent,2024-11-07,397,Sick,2025-12-31,2026-01-04,5,Chronic back pain has worsened and need physiotherapy sessions,Medical,1
+EMP00837,Employee_837,Admin,Permanent,2025-01-15,328,Sick,2025-12-30,2025-12-31,2,Need to undergo surgery and recovery time at home,Medical,1
+EMP00838,Employee_838,IT,Probation,2024-01-24,685,Emergency,2025-12-13,2025-12-14,2,Sudden family bereavement and funeral ceremony attendance,Emergency,1
+EMP00839,Employee_839,Finance,Permanent,2025-10-10,60,Emergency,2025-12-13,2025-12-29,17,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00840,Employee_840,Sales,Probation,2024-10-27,408,Earned,2026-01-03,2026-01-10,8,Anniversary celebration with spouse at planned destination,Personal,0
+EMP00841,Employee_841,Marketing,Permanent,2024-08-10,486,Emergency,2025-12-22,2025-12-28,7,Urgent situation at home needs immediate presence and resolution,Emergency,1
+EMP00842,Employee_842,Admin,Contract,2023-03-22,993,Sick,2025-12-14,2025-12-27,14,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00843,Employee_843,Admin,Permanent,2023-10-07,794,Earned,2025-12-24,2025-12-28,5,Need time to complete pending personal documentation work,Other,1
+EMP00844,Employee_844,Sales,Probation,2024-10-20,415,Earned,2025-12-11,2025-12-15,5,Need break from work for personal well-being,Other,0
+EMP00845,Employee_845,Engineering,Probation,2025-03-04,280,Sick,2025-12-24,2026-01-07,15,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00846,Employee_846,Marketing,Probation,2025-01-21,322,Casual,2025-12-27,2026-01-14,19,Child's school annual day function and parent participation required,Personal,0
+EMP00847,Employee_847,IT,Contract,2023-03-13,1002,Casual,2025-12-25,2026-01-12,19,Planning to attend professional certification exam,Other,0
+EMP00848,Employee_848,Engineering,Contract,2023-07-16,877,Casual,2025-12-20,2025-12-27,8,Need break from work for personal well-being,Other,0
+EMP00849,Employee_849,Marketing,Contract,2025-02-06,306,Sick,2025-12-11,2025-12-24,14,Want to spend time on personal development activities,Other,0
+EMP00850,Employee_850,Engineering,Probation,2022-12-17,1088,Emergency,2026-01-04,2026-01-19,16,Urgent situation at home needs immediate presence and resolution,Emergency,0
+EMP00851,Employee_851,Admin,Probation,2024-08-03,493,Sick,2026-01-03,2026-01-20,18,Need time to complete pending personal documentation work,Other,0
+EMP00852,Employee_852,Finance,Probation,2024-04-12,606,Casual,2025-12-10,2025-12-12,3,Planning to attend professional certification exam,Other,0
+EMP00853,Employee_853,Finance,Contract,2023-05-13,941,Sick,2025-12-24,2026-01-07,15,Dental emergency requiring immediate clinic visit and recovery,Medical,0
+EMP00854,Employee_854,Finance,Probation,2023-05-03,951,Sick,2025-12-22,2025-12-24,3,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00855,Employee_855,Engineering,Probation,2023-07-20,873,Earned,2025-12-27,2026-01-15,20,Need time to complete pending personal documentation work,Other,0
+EMP00856,Employee_856,HR,Contract,2024-01-21,688,Sick,2026-01-08,2026-01-24,17,I am suffering from high fever and need to visit the doctor for checkup,Medical,0
+EMP00857,Employee_857,HR,Probation,2023-11-21,749,Emergency,2025-12-11,2025-12-30,20,Death in the family and need to attend funeral arrangements,Emergency,0
+EMP00858,Employee_858,HR,Contract,2024-10-15,420,Casual,2025-12-17,2025-12-27,11,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00859,Employee_859,Admin,Contract,2024-10-05,430,Casual,2025-12-21,2025-12-31,11,Want to spend time on personal development activities,Other,0
+EMP00860,Employee_860,IT,Probation,2025-08-19,112,Sick,2025-12-21,2026-01-01,12,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00861,Employee_861,HR,Probation,2022-12-15,1090,Earned,2025-12-29,2026-01-12,15,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00862,Employee_862,Marketing,Probation,2025-06-13,179,Sick,2026-01-07,2026-01-19,13,Child's school annual day function and parent participation required,Personal,0
+EMP00863,Employee_863,Finance,Probation,2025-04-23,230,Casual,2025-12-14,2025-12-29,16,Personal commitment to attend cousin's marriage ceremony,Personal,0
+EMP00864,Employee_864,Engineering,Probation,2023-08-08,854,Casual,2025-12-21,2026-01-05,16,Taking time off for self-care and rejuvenation,Other,0
+EMP00865,Employee_865,Engineering,Probation,2024-11-16,388,Sick,2026-01-06,2026-01-06,1,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,1
+EMP00866,Employee_866,Sales,Probation,2024-01-06,703,Earned,2025-12-28,2026-01-12,16,Want to spend time on personal development activities,Other,0
+EMP00867,Employee_867,Admin,Probation,2024-03-26,623,Casual,2025-12-15,2025-12-24,10,Need time to complete pending personal documentation work,Other,0
+EMP00868,Employee_868,Admin,Probation,2024-04-27,591,Sick,2025-12-21,2025-12-25,5,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00869,Employee_869,Finance,Contract,2024-05-03,585,Casual,2026-01-05,2026-01-10,6,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00870,Employee_870,Finance,Permanent,2025-04-13,240,Sick,2025-12-28,2026-01-07,11,Personal reasons requiring few days of absence,Other,0
+EMP00871,Employee_871,Finance,Permanent,2025-09-28,72,Earned,2025-12-14,2025-12-25,12,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00872,Employee_872,Finance,Contract,2024-03-31,618,Sick,2025-12-22,2025-12-22,1,Experiencing severe headache and stomach pain requiring medical attention,Medical,1
+EMP00873,Employee_873,Admin,Probation,2025-01-23,320,Sick,2025-12-26,2026-01-12,18,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00874,Employee_874,Admin,Probation,2025-02-10,302,Emergency,2026-01-01,2026-01-11,11,Attending family wedding ceremony and related functions,Personal,0
+EMP00875,Employee_875,Finance,Contract,2025-04-13,240,Earned,2025-12-22,2025-12-22,1,Need time to complete pending personal documentation work,Other,1
+EMP00876,Employee_876,HR,Probation,2025-08-18,113,Casual,2025-12-26,2026-01-13,19,Religious festival celebration with family gathering,Personal,0
+EMP00877,Employee_877,Marketing,Permanent,2025-06-20,172,Emergency,2025-12-26,2025-12-28,3,Home emergency due to natural disaster requiring immediate action,Emergency,1
+EMP00878,Employee_878,Sales,Contract,2023-01-26,1048,Sick,2025-12-22,2026-01-02,12,Personal reasons requiring few days of absence,Other,0
+EMP00879,Employee_879,IT,Probation,2025-11-14,25,Earned,2025-12-21,2026-01-01,12,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00880,Employee_880,HR,Permanent,2023-06-13,910,Emergency,2025-12-19,2026-01-02,15,Close relative in critical condition at emergency room,Emergency,1
+EMP00881,Employee_881,IT,Permanent,2025-06-15,177,Casual,2025-12-19,2025-12-25,7,Want to spend time on personal development activities,Other,0
+EMP00882,Employee_882,Sales,Permanent,2023-10-31,770,Sick,2025-12-23,2025-12-23,1,Having flu symptoms and doctor advised rest for few days,Medical,1
+EMP00883,Employee_883,IT,Permanent,2023-05-07,947,Casual,2025-12-15,2025-12-21,7,Planning to attend professional certification exam,Other,0
+EMP00884,Employee_884,Admin,Permanent,2024-03-30,619,Earned,2025-12-27,2026-01-11,16,Taking time off for self-care and rejuvenation,Other,0
+EMP00885,Employee_885,Marketing,Permanent,2025-12-03,6,Casual,2025-12-19,2025-12-27,9,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00886,Employee_886,HR,Contract,2024-04-28,590,Emergency,2025-12-25,2025-12-30,6,Child met with an accident and needs immediate care,Emergency,0
+EMP00887,Employee_887,Engineering,Permanent,2024-05-20,568,Emergency,2025-12-29,2025-12-31,3,Urgent legal matter requiring immediate personal presence,Emergency,1
+EMP00888,Employee_888,Admin,Contract,2023-06-29,894,Earned,2026-01-01,2026-01-16,16,Anniversary celebration with spouse at planned destination,Personal,0
+EMP00889,Employee_889,Engineering,Probation,2025-01-09,334,Sick,2025-12-20,2025-12-24,5,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00890,Employee_890,Sales,Permanent,2025-08-22,109,Earned,2025-12-23,2026-01-03,12,Personal reasons requiring few days of absence,Other,0
+EMP00891,Employee_891,Engineering,Probation,2024-04-20,598,Sick,2025-12-16,2026-01-01,17,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00892,Employee_892,HR,Contract,2024-12-31,343,Earned,2026-01-05,2026-01-15,11,Planning to attend professional certification exam,Other,0
+EMP00893,Employee_893,Operations,Contract,2023-11-27,743,Sick,2025-12-28,2026-01-14,18,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00894,Employee_894,Engineering,Permanent,2023-01-12,1062,Earned,2026-01-03,2026-01-14,12,Dental emergency requiring immediate clinic visit and recovery,Medical,1
+EMP00895,Employee_895,Sales,Permanent,2025-05-13,210,Casual,2025-12-26,2025-12-30,5,Planned family vacation to spend quality time together,Personal,0
+EMP00896,Employee_896,HR,Probation,2023-05-10,944,Sick,2026-01-05,2026-01-08,4,Parent's birthday celebration and family get together,Personal,0
+EMP00897,Employee_897,Sales,Probation,2023-11-27,743,Casual,2026-01-07,2026-01-21,15,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00898,Employee_898,Sales,Permanent,2024-03-25,624,Sick,2025-12-17,2025-12-20,4,Long planned trip for family reunion and bonding,Personal,1
+EMP00899,Employee_899,Marketing,Probation,2025-03-27,257,Casual,2025-12-12,2025-12-16,5,Taking break for mental health and stress relief,Other,0
+EMP00900,Employee_900,HR,Permanent,2023-03-23,992,Emergency,2025-12-16,2025-12-17,2,Chronic back pain has worsened and need physiotherapy sessions,Medical,1
+EMP00901,Employee_901,HR,Probation,2025-09-11,89,Sick,2025-12-31,2026-01-09,10,Child's school annual day function and parent participation required,Personal,0
+EMP00902,Employee_902,Marketing,Contract,2024-10-25,410,Casual,2025-12-10,2025-12-21,12,Moving to new house and need time for relocation activities,Personal,0
+EMP00903,Employee_903,Operations,Contract,2023-12-27,713,Earned,2026-01-06,2026-01-11,6,Need break from work for personal well-being,Other,0
+EMP00904,Employee_904,Marketing,Contract,2025-07-22,140,Sick,2026-01-03,2026-01-21,19,Long planned trip for family reunion and bonding,Personal,0
+EMP00905,Employee_905,Marketing,Probation,2024-12-22,352,Sick,2026-01-08,2026-01-11,4,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00906,Employee_906,Admin,Probation,2024-11-24,380,Emergency,2025-12-15,2025-12-18,4,Close relative in critical condition at emergency room,Emergency,0
+EMP00907,Employee_907,IT,Permanent,2023-01-20,1054,Casual,2025-12-13,2025-12-26,14,Taking break for mental health and stress relief,Other,0
+EMP00908,Employee_908,Admin,Permanent,2023-01-09,1065,Casual,2026-01-03,2026-01-18,16,Planning to attend professional certification exam,Other,0
+EMP00909,Employee_909,Engineering,Permanent,2024-02-06,672,Emergency,2025-12-22,2025-12-25,4,Urgent legal matter requiring immediate personal presence,Emergency,1
+EMP00910,Employee_910,Operations,Contract,2023-06-13,910,Casual,2025-12-23,2026-01-09,18,Need to handle some important personal matters,Other,0
+EMP00911,Employee_911,Marketing,Permanent,2023-04-09,975,Earned,2025-12-10,2025-12-15,6,Taking time off for self-care and rejuvenation,Other,1
+EMP00912,Employee_912,HR,Probation,2023-06-25,898,Sick,2025-12-14,2025-12-17,4,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00913,Employee_913,HR,Contract,2024-12-28,346,Sick,2025-12-16,2025-12-27,12,Dealing with severe migraine attacks requiring rest and medication,Medical,0
+EMP00914,Employee_914,IT,Permanent,2024-08-19,477,Emergency,2025-12-18,2026-01-02,16,Urgent legal matter requiring immediate personal presence,Emergency,0
+EMP00915,Employee_915,Operations,Contract,2023-09-11,820,Earned,2025-12-31,2026-01-15,16,Need to handle some important personal matters,Other,0
+EMP00916,Employee_916,Admin,Contract,2024-05-16,572,Casual,2025-12-13,2025-12-27,15,Religious festival celebration with family gathering,Personal,0
+EMP00917,Employee_917,Admin,Probation,2024-08-23,473,Casual,2025-12-13,2025-12-13,1,I am suffering from high fever and need to visit the doctor for checkup,Medical,1
+EMP00918,Employee_918,HR,Probation,2025-10-15,55,Casual,2025-12-29,2026-01-10,13,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00919,Employee_919,Finance,Probation,2025-05-25,198,Sick,2026-01-03,2026-01-19,17,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00920,Employee_920,Marketing,Probation,2023-02-23,1020,Emergency,2025-12-18,2026-01-03,17,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00921,Employee_921,Engineering,Permanent,2023-07-11,882,Sick,2025-12-24,2026-01-05,13,Dental emergency requiring immediate clinic visit and recovery,Medical,1
+EMP00922,Employee_922,Admin,Probation,2025-09-26,74,Sick,2025-12-27,2026-01-01,6,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00923,Employee_923,Finance,Probation,2023-07-10,883,Casual,2026-01-01,2026-01-10,10,Taking time off for self-care and rejuvenation,Other,0
+EMP00924,Employee_924,HR,Contract,2023-03-10,1005,Emergency,2025-12-27,2026-01-11,16,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00925,Employee_925,Engineering,Probation,2024-06-17,540,Emergency,2025-12-22,2026-01-09,19,Unexpected family crisis requiring immediate travel back home,Emergency,0
+EMP00926,Employee_926,Operations,Probation,2025-08-05,126,Sick,2025-12-11,2025-12-29,19,Personal reasons requiring few days of absence,Other,0
+EMP00927,Employee_927,Engineering,Contract,2024-01-10,699,Emergency,2025-12-23,2025-12-26,4,Unexpected family crisis requiring immediate travel back home,Emergency,1
+EMP00928,Employee_928,IT,Probation,2025-08-15,116,Casual,2025-12-17,2025-12-24,8,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00929,Employee_929,HR,Contract,2025-07-27,135,Earned,2025-12-20,2025-12-23,4,Attending family wedding ceremony and related functions,Personal,0
+EMP00930,Employee_930,Sales,Permanent,2023-05-10,944,Emergency,2025-12-26,2026-01-13,19,Critical emergency involving elderly family member hospitalization,Emergency,0
+EMP00931,Employee_931,Engineering,Contract,2023-04-22,962,Sick,2025-12-22,2026-01-01,11,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00932,Employee_932,HR,Probation,2025-05-18,205,Casual,2025-12-25,2026-01-04,11,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00933,Employee_933,Finance,Contract,2024-04-04,614,Earned,2025-12-16,2025-12-29,14,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00934,Employee_934,Marketing,Probation,2024-06-13,544,Sick,2025-12-28,2026-01-06,10,Need to undergo surgery and recovery time at home,Medical,0
+EMP00935,Employee_935,HR,Contract,2025-05-28,195,Earned,2025-12-12,2025-12-20,9,Want to spend time on personal development activities,Other,0
+EMP00936,Employee_936,Admin,Probation,2024-10-05,430,Earned,2025-12-30,2026-01-01,3,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00937,Employee_937,Operations,Probation,2024-03-07,642,Casual,2025-12-22,2026-01-04,14,Need break from work for personal well-being,Other,0
+EMP00938,Employee_938,Admin,Contract,2024-12-04,370,Sick,2026-01-06,2026-01-22,17,Need time to complete pending personal documentation work,Other,0
+EMP00939,Employee_939,Admin,Probation,2022-12-13,1092,Emergency,2026-01-02,2026-01-20,19,Sudden family bereavement and funeral ceremony attendance,Emergency,0
+EMP00940,Employee_940,Marketing,Probation,2023-05-06,948,Casual,2025-12-14,2025-12-21,8,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00941,Employee_941,IT,Probation,2024-02-25,653,Sick,2026-01-06,2026-01-12,7,Having flu symptoms and doctor advised rest for few days,Medical,0
+EMP00942,Employee_942,Finance,Probation,2024-08-12,484,Emergency,2025-12-13,2025-12-20,8,Need to undergo surgery and recovery time at home,Medical,0
+EMP00943,Employee_943,Operations,Probation,2023-03-20,995,Emergency,2025-12-30,2026-01-12,14,Child met with an accident and needs immediate care,Emergency,0
+EMP00944,Employee_944,Finance,Probation,2025-03-04,280,Sick,2026-01-04,2026-01-12,9,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00945,Employee_945,Finance,Contract,2025-09-13,87,Emergency,2025-12-11,2025-12-11,1,Urgent situation at home needs immediate presence and resolution,Emergency,1
+EMP00946,Employee_946,Sales,Contract,2024-04-07,611,Sick,2026-01-07,2026-01-20,14,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00947,Employee_947,IT,Contract,2025-02-24,288,Casual,2025-12-28,2025-12-31,4,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,0
+EMP00948,Employee_948,HR,Contract,2022-12-29,1076,Earned,2026-01-07,2026-01-22,16,Planned family vacation to spend quality time together,Personal,0
+EMP00949,Employee_949,HR,Probation,2024-02-03,675,Emergency,2026-01-08,2026-01-15,8,Death in the family and need to attend funeral arrangements,Emergency,0
+EMP00950,Employee_950,HR,Permanent,2024-09-26,439,Earned,2025-12-23,2026-01-06,15,Dealing with severe migraine attacks requiring rest and medication,Medical,1
+EMP00951,Employee_951,Engineering,Probation,2022-12-12,1093,Earned,2025-12-20,2025-12-23,4,Need to handle some important personal matters,Other,0
+EMP00952,Employee_952,Admin,Contract,2024-07-22,505,Earned,2025-12-21,2025-12-25,5,Diagnosed with infection and need time for medication and treatment,Medical,1
+EMP00953,Employee_953,Operations,Permanent,2025-09-28,72,Sick,2025-12-18,2025-12-25,8,Having flu symptoms and doctor advised rest for few days,Medical,1
+EMP00954,Employee_954,Sales,Contract,2025-04-03,250,Casual,2025-12-22,2026-01-05,15,Attending important family function out of town,Personal,0
+EMP00955,Employee_955,Operations,Probation,2025-06-07,185,Casual,2025-12-16,2025-12-25,10,Parent's birthday celebration and family get together,Personal,0
+EMP00956,Employee_956,Sales,Contract,2023-08-29,833,Sick,2026-01-06,2026-01-14,9,Taking time off for self-care and rejuvenation,Other,0
+EMP00957,Employee_957,IT,Probation,2023-07-27,866,Sick,2026-01-01,2026-01-06,6,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00958,Employee_958,Sales,Probation,2024-02-08,670,Emergency,2026-01-03,2026-01-03,1,Chronic back pain has worsened and need physiotherapy sessions,Medical,1
+EMP00959,Employee_959,Finance,Permanent,2023-09-10,821,Casual,2025-12-20,2025-12-29,10,I have a medical appointment scheduled at the hospital for health issues,Medical,0
+EMP00960,Employee_960,HR,Permanent,2024-07-15,512,Casual,2025-12-31,2026-01-19,20,Personal reasons requiring few days of absence,Other,0
+EMP00961,Employee_961,Admin,Probation,2025-03-10,274,Earned,2025-12-31,2026-01-05,6,Personal reasons requiring few days of absence,Other,0
+EMP00962,Employee_962,Operations,Permanent,2025-06-19,173,Emergency,2025-12-15,2025-12-26,12,Close relative in critical condition at emergency room,Emergency,1
+EMP00963,Employee_963,Marketing,Permanent,2025-10-22,48,Casual,2025-12-24,2025-12-26,3,Religious festival celebration with family gathering,Personal,1
+EMP00964,Employee_964,Finance,Permanent,2023-09-09,822,Emergency,2025-12-18,2026-01-06,20,Moving to new house and need time for relocation activities,Personal,0
+EMP00965,Employee_965,HR,Permanent,2022-12-28,1077,Emergency,2026-01-05,2026-01-19,15,Urgent situation at home needs immediate presence and resolution,Emergency,1
+EMP00966,Employee_966,Marketing,Contract,2024-10-18,417,Casual,2025-12-19,2025-12-27,9,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00967,Employee_967,IT,Permanent,2023-07-09,884,Casual,2025-12-16,2026-01-04,20,Need time to complete pending personal documentation work,Other,0
+EMP00968,Employee_968,IT,Permanent,2023-08-25,837,Casual,2025-12-19,2025-12-19,1,Need time to complete pending personal documentation work,Other,1
+EMP00969,Employee_969,Admin,Permanent,2023-11-12,758,Emergency,2025-12-10,2025-12-12,3,Unexpected family crisis requiring immediate travel back home,Emergency,1
+EMP00970,Employee_970,IT,Contract,2024-09-30,435,Emergency,2026-01-02,2026-01-15,14,Urgent situation at home needs immediate presence and resolution,Emergency,0
+EMP00971,Employee_971,HR,Contract,2025-08-10,121,Sick,2026-01-08,2026-01-18,11,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00972,Employee_972,Engineering,Permanent,2024-07-07,520,Emergency,2025-12-22,2025-12-31,10,Death in the family and need to attend funeral arrangements,Emergency,1
+EMP00973,Employee_973,Engineering,Contract,2024-12-06,368,Earned,2025-12-26,2025-12-31,6,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00974,Employee_974,Admin,Permanent,2025-06-08,184,Earned,2025-12-23,2026-01-08,17,Religious festival celebration with family gathering,Personal,0
+EMP00975,Employee_975,HR,Probation,2025-09-09,91,Casual,2026-01-06,2026-01-21,16,Personal reasons requiring few days of absence,Other,0
+EMP00976,Employee_976,IT,Probation,2024-06-17,540,Earned,2025-12-20,2026-01-05,17,Experiencing severe headache and stomach pain requiring medical attention,Medical,0
+EMP00977,Employee_977,Sales,Contract,2023-03-08,1007,Casual,2026-01-06,2026-01-23,18,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00978,Employee_978,Engineering,Permanent,2025-02-07,305,Sick,2025-12-15,2025-12-22,8,Want to pursue personal hobby project during time off,Other,1
+EMP00979,Employee_979,IT,Permanent,2023-03-01,1014,Sick,2025-12-21,2026-01-04,15,Eye checkup appointment with specialist ophthalmologist scheduled,Medical,1
+EMP00980,Employee_980,Admin,Probation,2023-03-05,1010,Sick,2025-12-13,2025-12-17,5,Need to undergo surgery and recovery time at home,Medical,0
+EMP00981,Employee_981,Operations,Permanent,2024-12-29,345,Earned,2026-01-07,2026-01-25,19,Need break from work for personal well-being,Other,0
+EMP00982,Employee_982,Marketing,Contract,2025-11-30,9,Casual,2026-01-08,2026-01-21,14,Planned family vacation to spend quality time together,Personal,0
+EMP00983,Employee_983,Admin,Contract,2025-05-29,194,Earned,2025-12-19,2025-12-19,1,Taking break for mental health and stress relief,Other,1
+EMP00984,Employee_984,HR,Probation,2025-01-28,315,Sick,2025-12-24,2025-12-26,3,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00985,Employee_985,Admin,Contract,2024-06-05,552,Sick,2025-12-11,2025-12-21,11,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00986,Employee_986,Sales,Contract,2025-03-19,265,Casual,2026-01-04,2026-01-05,2,Having flu symptoms and doctor advised rest for few days,Medical,1
+EMP00987,Employee_987,Sales,Permanent,2025-07-17,145,Emergency,2025-12-22,2025-12-24,3,Child met with an accident and needs immediate care,Emergency,1
+EMP00988,Employee_988,IT,Permanent,2025-10-27,43,Casual,2025-12-22,2025-12-27,6,Planning to attend professional certification exam,Other,0
+EMP00989,Employee_989,Finance,Permanent,2024-04-06,612,Emergency,2026-01-02,2026-01-15,14,Critical emergency involving elderly family member hospitalization,Emergency,1
+EMP00990,Employee_990,Finance,Probation,2025-05-26,197,Earned,2025-12-16,2026-01-01,17,Chronic back pain has worsened and need physiotherapy sessions,Medical,0
+EMP00991,Employee_991,IT,Probation,2024-06-07,550,Emergency,2026-01-03,2026-01-05,3,Unexpected family crisis requiring immediate travel back home,Emergency,0
+EMP00992,Employee_992,Finance,Probation,2023-07-20,873,Sick,2025-12-26,2025-12-27,2,Chronic back pain has worsened and need physiotherapy sessions,Medical,1
+EMP00993,Employee_993,Marketing,Contract,2025-01-25,318,Emergency,2025-12-30,2026-01-15,17,Urgent situation at home needs immediate presence and resolution,Emergency,0
+EMP00994,Employee_994,Operations,Probation,2023-06-27,896,Sick,2025-12-19,2026-01-03,16,Home renovation work supervision requiring presence,Personal,0
+EMP00995,Employee_995,Operations,Permanent,2023-01-02,1072,Emergency,2025-12-28,2026-01-06,10,I am suffering from high fever and need to visit the doctor for checkup,Medical,1
+EMP00996,Employee_996,HR,Contract,2023-07-22,871,Emergency,2025-12-24,2025-12-27,4,Urgent legal matter requiring immediate personal presence,Emergency,1
+EMP00997,Employee_997,Operations,Probation,2024-07-05,522,Sick,2025-12-10,2025-12-26,17,Want to pursue personal hobby project during time off,Other,0
+EMP00998,Employee_998,Finance,Probation,2025-09-07,93,Sick,2026-01-07,2026-01-20,14,Diagnosed with infection and need time for medication and treatment,Medical,0
+EMP00999,Employee_999,Admin,Contract,2023-06-01,922,Earned,2026-01-08,2026-01-18,11,Planned family vacation to spend quality time together,Personal,0
+EMP01000,Employee_1000,Finance,Permanent,2024-06-25,532,Sick,2025-12-27,2026-01-09,14,Taking break for mental health and stress relief,Other,0
